@@ -7,7 +7,7 @@
 
 ## Sobre o Projeto
 
-Repositório destinado à disciplina [Interação Humano-Computador](https://github.com/Interacao-Humano-Computador/2020.2-Grupo3) da Universidade de Brasília acerca do website da defensoria pública de São Paulo.</p>
+Repositório destinado à disciplina [Interação Humano-Computador](https://github.com/Interacao-Humano-Computador/2020.2-DefensoriaSP) da Universidade de Brasília acerca do website da defensoria pública de São Paulo.</p>
 
 ## Equipe
 
