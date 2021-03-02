@@ -17,11 +17,3 @@ services:
     volumes:
       - ./:/docs/
     command: mkdocs serve
-
-  deploy:
-    build:
-      context: .
-      dockerfile: ./Dockerfile
-    volumes:
-      - ./:/docs/
-    command: mkdocs gh-deploy --force
