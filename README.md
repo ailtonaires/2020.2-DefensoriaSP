@@ -30,18 +30,6 @@ Repositório destinado à disciplina [Interação Humano-Computador](https://git
 <p align="center"><b>Grupo 3</b></p>
 <p align="center">Interação Humano Computador <br /><br />
 
-## Sites avaliados
-- [Banco Central do Brasil](https://www.bcb.gov.br/)
-- [Defensoria Pública do Estado de São Paulo](https://www.defensoria.sp.def/br/dpesp/)
-
-## Site selecionado
-
-
-- [Defensoria Pública do Estado de São Paulo](https://www.defensoria.sp.def/br/dpesp/)
- 
-<p align="center"><a href="https://fga.unb.br" target="_blank"><img width="230"src="https://4.bp.blogspot.com/-0aa6fAFnSnA/VzICtBQgciI/AAAAAAAARn4/SxVsQPFNeE0fxkCPVgMWbhd5qIEAYCMbwCLcB/s1600/unb-gama.png"></a></p>
-</p>
-
 ## Rodar localmente
 
 ### Dependências
