@@ -14,7 +14,7 @@ Repositório destinado à disciplina [Interação Humano-Computador](https://git
 |                                                                                         | Matrícula  | GitHub                             | Email                        |
 | --------------------------------------------------------------------------------------- | ---------- | ---------------------------------- | ---------------------------- |
 | <img width=100 style="border-radius:50%" src="./docs/assets/integrantes/brenda.jpeg"/>  | 18/0041444 | [@brendavsantos][brenda-github]    | brendasantosv.bs@gmail.com   |
-| <img width=100 style="border-radius:50%" src="./docs/assets/integrantes/herick.jpeg"/>  | 18/0018019 | [@guilhermedfs][guilherme-github]       | guilhermedfs11@gmail.com   |
+| <img width=100 style="border-radius:50%" src="./docs/assets/integrantes/guilherme.jpeg"/>  | 18/0018019 | [@guilhermedfs][guilherme-github]       | guilhermedfs11@gmail.com   |
 | <img width=100 style="border-radius:50%" src="./docs/assets/integrantes/italo.jpeg"/>   | 18/0113666 | [@alvesitalo][italo-github]        | italooko@gmail.com           |
 | <img width=100 style="border-radius:50%" src="./docs/assets/integrantes/lorrany.jpeg"/> | 18/0113992 | [@lorranyoliveira][lorrany-github] | lolo.souza80@yahoo.com       |
 | <img width=100 style="border-radius:50%" src="./docs/assets/integrantes/lucas.png"/>    | 18/0114093 | [@lboaventura25][lucas-github]     | lucasxboaventura@hotmail.com |
