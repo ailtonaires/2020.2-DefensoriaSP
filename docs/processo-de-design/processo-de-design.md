@@ -5,7 +5,7 @@ O processo de design é uma parte muito importante, pois é nele que há o detal
 ## Ciclo de Mayhew
 
 <div align="center">
-  <img src="/assets/planejamento/processo-design/mayhew.png" />
+  <img src="../../assets/planejamento/processo-design/mayhew.png" />
 </div>
 
 É um ciclo criado para a engenharia de usabilidade. Esse processo traz a organização de diversas atividades da área de IHC.
