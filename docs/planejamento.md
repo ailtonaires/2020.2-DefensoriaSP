@@ -132,7 +132,7 @@ A tabela a seguir mostra os horários diários dos integrantes da equipe, visand
 O processo de design é uma parte muito importante, pois é nele que há o detalhamento das atividades básicas propostas no design, que são: aa análise da situação atual, a síntese de uma intervenção e a avaliação desse intervenção. Tendo em conhecimento, que existem várias propostas de processo de design de IHC e cada uma possui uma forma diferente de pensar, a equipe debateu e chegou a conclusão que o modelo engenharia de usabilidade de Mayhew seria o mais conveniente para a realização deste projeto.
 
 <div align="center">
-    <img src="/assets/planejamento/processo-design/mayhew.png" />
+    <img src="../../assets/planejamento/processo-design/mayhew.png" />
 </div>
 
 ## 7. Versionamento
