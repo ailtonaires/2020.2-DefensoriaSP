@@ -1,11 +1,11 @@
 # Processo de Design
 
-O processo de design é uma parte muito importante, pois é nele que há o detalhamento das atividades básicas propostas no design, que são: aa análise da situação atual, a síntese de uma intervenção e a avaliação desse intervenção. Tendo em conhecimento, que existem várias propostas de processo de design de IHC e cada uma possui uma forma diferente de pensar, a equipe debateu e chegou a conclusão que o modelo engenharia de usabilidade de Mayhew seria o mais conveniente para a realização deste projeto.
+O processo de design é uma parte muito importante, pois é nele que há o detalhamento das atividades básicas propostas no design, que são: a análise da situação atual, a síntese de uma intervenção e a avaliação desse intervenção. Tendo em conhecimento, que existem várias propostas de processo de design de IHC e cada uma possui uma forma diferente de pensar, a equipe debateu e chegou a conclusão que o modelo engenharia de usabilidade de Mayhew seria o mais conveniente para a realização deste projeto.
 
 ## Ciclo de Mayhew
 
 <div align="center">
-  <img src="/assets/planejamento/processo-design/mayhew.png" />
+  <img src="../../assets/planejamento/processo-design/mayhew.png" />
 </div>
 
 É um ciclo criado para a engenharia de usabilidade. Esse processo traz a organização de diversas atividades da área de IHC.
@@ -26,7 +26,9 @@ Essa fase do ciclo tem por objetivo a **concepção de uma solução**, que se b
 
 No **primeiro nível**, o designer repensa a execução das tarefas para que se possa alcançar o objetivo dos usuários, elaborando alternativas de solução e protótipos de baixa fidelidade - essas tarefas são a realização da reengenharia do trabalho.
 
-No **segundo nível**, o designer estabelece os padrões de design de IHC para a solução que ele está concebendo e constroí protótipos de média fidelidade avaliáveis por ele.
+No **segundo nível**, o designer estabelece os padrões de design de IHC para a solução que ele está concebendo e constrói protótipos de média fidelidade avaliáveis por ele.
+
+No **terceiro nível**, o designer deve elaborar detalhadamente o protótipo de alta fidelidade do projeto que irá ser implementado.
 
 Já no **desenvolvimento do sistema**, a interface é **avaliada** com a participação dos usuários.
 
@@ -34,7 +36,7 @@ Já no **desenvolvimento do sistema**, a interface é **avaliada** com a partici
 
 A fase de **instalação** do sistema, que depois de um tempo de uso, permite que os usuários possam avaliar a usabilidade do software, de forma mais genuína de acordo com as suas experiências.
 
-Para se coletar avaliações dos usuários, pode se utilizar de testes de usabilildade, ou métodos de análise como entrevistas, observações e questionários.
+Para se coletar avaliações dos usuários, pode se utilizar de testes de usabilidade, ou métodos de análise como entrevistas, observações e questionários.
 
 ## Referências
 
@@ -47,3 +49,4 @@ Para se coletar avaliações dos usuários, pode se utilizar de testes de usabil
 |    Data    | Versão |      Descrição       |                      Autor                      |
 | :--------: | :----: | :------------------: | :---------------------------------------------: |
 | 04/03/2021 |  1.0   | Criação do documento | Lucas Boaventura, Lorrany Oliveira, Ítalo Alves |
+| 04/03/2021 |  2.0   | Revisão do documento |                   Ítalo Alves                   |
