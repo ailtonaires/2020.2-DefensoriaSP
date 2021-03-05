@@ -1,7 +1,7 @@
 site_name: Defensoria SP
 theme:
+  language: pt
   palette:
-    language: pt
     primary: red
     accent: green
   logo: assets/planejamento/logos/defensoria-logo.jpg
