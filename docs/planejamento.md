@@ -8,7 +8,7 @@ Ao cronograma das tarefas do projeto foi baseado nas datas de entregas das ativi
 
 | Etapas | Título             | Data  | Descrição                                                                                                                                             |
 | ------ | ------------------ | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| I      | Apresentação 1     | 05/03 | Planejamento do Projeto, Equipe, Listas de sites avaliados, Site selecionado, Ferramentas do projeto, Processo de Design, Cronograma das atividades.  |
+| I      | Apresentação 1     | 05/03 | Planejamento do Projeto, Equipe, Listas de sites avaliados, Site selecionado, Ferramentas do projeto, Processo de Design, Cronograma das atividades.  |NomedoSite
 | II     | Apresentação 2     | 19/03 | Perfil do usuário, Personas e Análise de Tarefas                                                                                                      |
 | III    | Apresentação 3     | 26/03 | Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo.                                                                                   |
 | IV     | Apresentação 4     | 09/04 | Planejamento da Avaliação e planejamento do relato dos resultados da avaliação do Storyboard e Análise de tarefas                                     |
@@ -132,7 +132,7 @@ A tabela a seguir mostra os horários diários dos integrantes da equipe, visand
 O processo de design é uma parte muito importante, pois é nele que há o detalhamento das atividades básicas propostas no design, que são: aa análise da situação atual, a síntese de uma intervenção e a avaliação desse intervenção. Tendo em conhecimento, que existem várias propostas de processo de design de IHC e cada uma possui uma forma diferente de pensar, a equipe debateu e chegou a conclusão que o modelo engenharia de usabilidade de Mayhew seria o mais conveniente para a realização deste projeto.
 
 <div align="center">
-    <img src="../../assets/planejamento/processo-design/mayhew.png" />
+    <img src="../assets/planejamento/processo-design/mayhew.png" />
 </div>
 
 ## 7. Versionamento
