@@ -1,7 +1,8 @@
 site_name: Defensoria SP
 theme:
-  pallete:
-    primary: orange
+  palette:
+    primary: red
+    accent: green
   logo: assets/planejamento/logos/defensoria-logo.jpg
   favicon: images/favicon.jpg
   name: material
