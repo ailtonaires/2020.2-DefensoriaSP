@@ -21,10 +21,6 @@
 
 ## Personas
 
-- Antipersona
-
-![](../assets/personas/persona1.png)
-
 - Persona primária
 ![](../assets/personas/persona2.png)
 
@@ -33,6 +29,9 @@
 
 - Persona primária
 ![](../assets/personas/persona4.png)
+
+- Antipersona
+![](../assets/personas/persona1.png)
 
 
 
