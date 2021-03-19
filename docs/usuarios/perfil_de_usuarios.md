@@ -2,9 +2,9 @@
 
 ## Metodologia
 
-<p> &emsp; O documento de perfil de usuários tem, basicamente, a função de expor todo o detalhamento e os resultados da aplicação das metodologias utilizadas para traçar o perfil dos usuários. A partir dos traços obtidos, são agregados valores que permitem o encaixe de cada tipo de usuário em grupos, contemplando assim suas principais características. A construção de cada perfil é um processo quase que inteiramente interativo e os prioriza de acordo com os objetivos do projeto e do sistema em questão. Em específico no processo de análise da Defensoria Pública do Estado de São Paulo, foi escolhido o método de aplicação de questionários devido a possibilidade de atingir maior alcance, visto que o público de usuários alvo não pertence ao estado da equipe desenvolvedora do projeto. Os resultados obtidos contaram com a participação de cinquenta e nove voluntários até o momento de encerramento.</p>
+<p align='justify'> &emsp; O documento de perfil de usuários tem, basicamente, a função de expor todo o detalhamento e os resultados da aplicação das metodologias utilizadas para traçar o perfil dos usuários. A partir dos traços obtidos, são agregados valores que permitem o encaixe de cada tipo de usuário em grupos, contemplando assim suas principais características. A construção de cada perfil é um processo quase que inteiramente interativo e os prioriza de acordo com os objetivos do projeto e do sistema em questão. Em específico no processo de análise da Defensoria Pública do Estado de São Paulo, foi escolhido o método de aplicação de questionários devido a possibilidade de atingir maior alcance, visto que o público de usuários alvo não pertence ao estado da equipe desenvolvedora do projeto. Os resultados obtidos contaram com a participação de cinquenta e nove voluntários até o momento de encerramento.</p>
 
-## Perguntas e estatíticas
+## Perguntas e Estatísticas
 
 ### 1. Perfil Demográfico
 
