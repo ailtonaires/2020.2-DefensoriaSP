@@ -2,7 +2,7 @@
 
 ## 1. Cronograma
 
-Ao cronograma das tarefas do projeto foi baseado nas datas de entregas das atividades descritas no plano de ensino da disciplina de Requisitos de Software, visando atender às exigências de cada ponto de controle. É importante ressaltar que as datas podem ser alteradas futuramente, caso seja necessário.
+<p align='justify'> &emsp; Ao cronograma das tarefas do projeto foi baseado nas datas de entregas das atividades descritas no plano de ensino da disciplina de Requisitos de Software, visando atender às exigências de cada ponto de controle. É importante ressaltar que as datas podem ser alteradas futuramente, caso seja necessário.</p>
 
 ### 1.1 Cronograma das etapas
 
@@ -20,15 +20,15 @@ Ao cronograma das tarefas do projeto foi baseado nas datas de entregas das ativi
 
 ### 2.1 Scrum:
 
-O Scrum é uma metodologia ágil que contém diversas rotinas para manter a equipe engajada e atualizada sobre o projeto, a se organizarem enquanto resolvem um problema e a refletirem sobre os êxitos e fracassos para melhorarem continuamente. Scrum é um framework estrutural usado para gerenciar o desenvolvimento de produtos. Ele é fundado nos princípios de transparência, inspeção e adaptação. Aos princípios do Scrum integramos eventos, papéis e artefatos, administrando as relações e interações entre eles.
+<p align='justify'> &emsp; O Scrum é uma metodologia ágil que contém diversas rotinas para manter a equipe engajada e atualizada sobre o projeto, a se organizarem enquanto resolvem um problema e a refletirem sobre os êxitos e fracassos para melhorarem continuamente. Scrum é um framework estrutural usado para gerenciar o desenvolvimento de produtos. Ele é fundado nos princípios de transparência, inspeção e adaptação. Aos princípios do Scrum integramos eventos, papéis e artefatos, administrando as relações e interações entre eles.</p>
 
 ![](https://i2.wp.com/www.scrumportugal.pt/wp-content/uploads/como-funciona-o-scrum.png?fit=1300,570)
 
 ### 2.2 Kanban:
 
-O Kanban, trata-se de uma simbologia visual usada no desenvolvimento de produtos para registrar o progresso das atividades. Essa metodologia foi criada pela empresa Toyota e integra o famoso sistema Toyota de produção.
+<p align='justify'> &emsp; O Kanban, trata-se de uma simbologia visual usada no desenvolvimento de produtos para registrar o progresso das atividades. Essa metodologia foi criada pela empresa Toyota e integra o famoso sistema Toyota de produção.</p>
 
-O Kanban é orientado através de colunas, em que cada uma representa diferentes estados de completeza de uma atividade (a fazer, fazendo, feito), as atividades (cartões visuais) vão transitando entre as colunas, mostrando o andamento do projeto.
+<p align='justify'> &emsp; O Kanban é orientado através de colunas, em que cada uma representa diferentes estados de completeza de uma atividade (a fazer, fazendo, feito), as atividades (cartões visuais) vão transitando entre as colunas, mostrando o andamento do projeto.</p>
 
 ![](https://blog.caelum.com.br/wp-content/uploads/2016/01/kanban.jpg)
 
@@ -36,7 +36,7 @@ O Kanban é orientado através de colunas, em que cada uma representa diferentes
 
 ![Git Flow Documentação](./assets/planejamento/GitFlowDocumentation.png)
 
-O Git Flow do repositório de documentação será tratado da forma mostrada na imagem acima. Para uma mudança chegar a branch master (branch estável) os passos abaixo são seguidos:
+<p align='justify'> &emsp; O Git Flow do repositório de documentação será tratado da forma mostrada na imagem acima. Para uma mudança chegar a branch master (branch estável) os passos abaixo são seguidos:</p>
 
 1. Toda nova branch deve ser feita a partir da master
 2. Ao resolver a issue proposta a nova branch deve ser merjada e comparada em relação a master
@@ -44,7 +44,7 @@ O Git Flow do repositório de documentação será tratado da forma mostrada na 
 
 #### 2.3.1 Regras de Nomenclatura
 
-Toda nova branch criada no repositório do projeto deve se propor a resolver uma issue específica, o nome da branch deve seguir as seguintes regras:
+<p align='justify'> &emsp; Toda nova branch criada no repositório do projeto deve se propor a resolver uma issue específica, o nome da branch deve seguir as seguintes regras:</p>
 
 1. Conter o código da issue fornecido pelo GitHub
 2. Ser curto e expressivo a respeito da issue a ser tratada
@@ -57,9 +57,9 @@ Exemplo:
 
 ### 2.4 Política de commits:
 
-Os commits devem ser pequenos e para resolver um problema específico. A mensagem do commit deve relatar o que foi feito de maneira sucinta e direta, além disso ela precisa estar em português, começar com um verbo e com a primeira letra maiúscula.
+<p align='justify'> &emsp; Os commits devem ser pequenos e para resolver um problema específico. A mensagem do commit deve relatar o que foi feito de maneira sucinta e direta, além disso ela precisa estar em português, começar com um verbo e com a primeira letra maiúscula.</p>
 
-Contribuições feitas por mais de uma pessoa devem conter o comando "Co-authored-by" para identificar todos os autores envolvidos.
+<p align='justify'> &emsp;  Contribuições feitas por mais de uma pessoa devem conter o comando "Co-authored-by" para identificar todos os autores envolvidos.</p>
 
 Exemplo de contribuição feita por um autor:
 
@@ -73,7 +73,7 @@ Exemplo de contribuição feita por mais de um autor:
 
 ### 2.5 Política de pull requests:
 
-Para realizar um Pull Request (PR) para o repositório é necessário seguir os passos abaixo.
+<p align='justify'> &emsp; Para realizar um Pull Request (PR) para o repositório é necessário seguir os passos abaixo.</p>
 
 1. Ao resolver uma issue suba suas contribuições e crie um Pull Request
 2. Escreva um título sucinto para o PR
@@ -84,7 +84,7 @@ Para realizar um Pull Request (PR) para o repositório é necessário seguir os 
 
 ## 3. Horários disponíveis dos integrantes
 
-A tabela a seguir mostra os horários diários dos integrantes da equipe, visando o melhor aproveitamento do tempo para possíveis reuniões futuras.      
+<p align='justify'> &emsp; A tabela a seguir mostra os horários diários dos integrantes da equipe, visando o melhor aproveitamento do tempo para possíveis reuniões futuras.</p>
 * Relação de Membros     
 1. Brenda Santos
 2. Guilherme Fernandes

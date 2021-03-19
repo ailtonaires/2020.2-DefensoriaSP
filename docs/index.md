@@ -10,7 +10,7 @@
 </div>
 </br>
 
-Este repositório é destinado ao projeto de Interação Humano Computador do Grupo 3, que escolheu o site da Defensoria de São Paulo. Ele contém toda a documentação do projeto da disciplina, ministrado pelo professor André Barros, na Universidade de Brasília - Gama, durante o período 2020/2.
+<p align='justify'> &emsp; Este repositório é destinado ao projeto de Interação Humano Computador do Grupo 3, que escolheu o site da Defensoria de São Paulo. Ele contém toda a documentação do projeto da disciplina, ministrado pelo professor André Barros, na Universidade de Brasília - Gama, durante o período 2020/2.</p>
 
 |                                         Foto                                         |       Nome       |               GitHub               |            E-mail            |
 | :----------------------------------------------------------------------------------: | :--------------: | :--------------------------------: | :--------------------------: |

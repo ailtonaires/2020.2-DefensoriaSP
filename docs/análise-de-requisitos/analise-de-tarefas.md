@@ -1,12 +1,12 @@
 # Análise de Tarefas
 
-<p>&emsp; A análise de tarefas é utilizada para se entender sobre qual é o esforço dos usuários, como e por quê eles o realizam.</p>
+<p align='justify'>&emsp; A análise de tarefas é utilizada para se entender sobre qual é o esforço dos usuários, como e por quê eles o realizam.</p>
 
 ## Metodologia
 
-<p>&emsp; Nesse tipo de análise, o esforço do usuário é definido em termos dos objetivos que eles querem ou precisam atingir. Existem algumas análises de tarefas, e a escolhida para se utilizar no projeto da disciplina foi a Análise Hierárquica de tarefas.</p>
+<p align='justify'>&emsp; Nesse tipo de análise, o esforço do usuário é definido em termos dos objetivos que eles querem ou precisam atingir. Existem algumas análises de tarefas, e a escolhida para se utilizar no projeto da disciplina foi a Análise Hierárquica de tarefas.</p>
 
-<p>&emsp; A Análise Hierárquica foi desenvolvida em 1960 para ajudar a entender as competências e habilidades exibidas em tarefas complexas e não repetitivas. Ajuda também a relacionar o que as pessoas fazem, ou deveriam fazer, porque fazem isso, e quais as consequências caso não seja feito corretamente. É utilizada uma fundamentação na psicologia funcional.</p>
+<p align='justify'>&emsp; A Análise Hierárquica foi desenvolvida em 1960 para ajudar a entender as competências e habilidades exibidas em tarefas complexas e não repetitivas. Ajuda também a relacionar o que as pessoas fazem, ou deveriam fazer, porque fazem isso, e quais as consequências caso não seja feito corretamente. É utilizada uma fundamentação na psicologia funcional.</p>
 
 ## Análise sobre o atendimento
 
