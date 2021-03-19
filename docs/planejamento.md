@@ -6,15 +6,15 @@ Ao cronograma das tarefas do projeto foi baseado nas datas de entregas das ativi
 
 ### 1.1 Cronograma das etapas
 
-| Etapas | Título             | Data  | Descrição                                                                                                                                             |
-| ------ | ------------------ | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| I      | Apresentação 1     | 05/03 | Planejamento do Projeto, Equipe, Listas de sites avaliados, Site selecionado, Ferramentas do projeto, Processo de Design, Cronograma das atividades.  |NomedoSite
-| II     | Apresentação 2     | 19/03 | Perfil do usuário, Personas e Análise de Tarefas                                                                                                      |
-| III    | Apresentação 3     | 26/03 | Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo.                                                                                   |
-| IV     | Apresentação 4     | 09/04 | Planejamento da Avaliação e planejamento do relato dos resultados da avaliação do Storyboard e Análise de tarefas                                     |
-| V      | Apresentação 5     | 23/04 | Relato dos resultados do Story Board, Análise de tarefas e o Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel. |
-| VI     | Apresentação 6     | 30/04 | Relato dos resultados do Protótipo de Papel e Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade.      |
-| VII    | Apresentação Final | 10/05 |                                                                                                                                                       |
+| Etapas | Título                         | Data        | Descrição                                                                  |
+| ------ | ------------------------------------- | ----------- | -------------------------------------------------------------------------- |
+| I      | Apresentação 1 | 05/03 | Planejamento do Projeto, Equipe, Listas de sites avaliados, Site selecionado, Ferramentas do projeto, Processo de Design, Cronograma das atividades. |
+| II     | Apresentação 2 | 19/03 |  Perfil do usuário, Personas e Análise de Tarefas |
+| III    | Apresentação 3 | 26/03 |  Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. |
+| IV     | Apresentação 4 | 09/04 | Planejamento da Avaliação e planejamento do relato dos resultados da avaliação do Storyboard e Análise de tarefas |
+| V      | Apresentação 5 | 23/04 | Relato dos resultados do Story Board, Análise de tarefas e o Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel. |
+| VI     | Apresentação 6 | 30/04 | Relato dos resultados do Protótipo de Papel e Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade. |
+| VII    | Apresentação Final | 10/05 |   |
 
 ## 2. Metodologia
 
@@ -84,20 +84,18 @@ Para realizar um Pull Request (PR) para o repositório é necessário seguir os 
 
 ## 3. Horários disponíveis dos integrantes
 
-A tabela a seguir mostra os horários diários dos integrantes da equipe, visando o melhor aproveitamento do tempo para possíveis reuniões futuras.
-
-- Relação de Membros
-
+A tabela a seguir mostra os horários diários dos integrantes da equipe, visando o melhor aproveitamento do tempo para possíveis reuniões futuras.      
+* Relação de Membros     
 1. Brenda Santos
 2. Guilherme Fernandes
 3. Lucas Boaventura
 4. Tiago Rodrigues
 5. Italo Alves
-6. Lorrany Oliveira
-
+6. Lorrany Oliveira        
+      
 ![Tabela de Horarios](./assets/planejamento/horarios/tabelaHorarios.jpeg)
-![Legenda da tabela](./assets/planejamento/horarios/legendasParticipantes.jpeg)
-![Legenda da tabela](./assets/planejamento/horarios/legendasHorarios.jpeg)
+![Legenda da tabela](./assets/planejamento/horarios/legendasParticipantes.jpeg) 
+![Legenda da tabela](./assets/planejamento/horarios/legendasHorarios.jpeg) 
 
 ## 4. Ferramentas
 
@@ -116,28 +114,21 @@ A tabela a seguir mostra os horários diários dos integrantes da equipe, visand
 | ![drawing](./assets/planejamento/logos/telegram-logo.webp)          | Telegram        | Ferramenta para comunicação da equipe                         |
 
 ## 5.1 Sites avaliados
-
 - [Banco Central do Brasil](https://www.bcb.gov.br/)
 - [Defensoria Pública do Estado de São Paulo](https://www.defensoria.sp.def.br/dpesp/)
 
 ## 5.2 Site selecionado
 
-- [Defensoria Pública do Estado de São Paulo](https://www.defensoria.sp.def/br/dpesp/)
 
-<p align="center"><a href="https://fga.unb.br" target="_blank"><img src="https://4.bp.blogspot.com/-0aa6fAFnSnA/VzICtBQgciI/AAAAAAAARn4/SxVsQPFNeE0fxkCPVgMWbhd5qIEAYCMbwCLcB/s1600/unb-gama.png"></a></p>
+- [Defensoria Pública do Estado de São Paulo](https://www.defensoria.sp.def/br/dpesp/)
+ 
+<p align="center"><a href="https://fga.unb.br" target="_blank"><img width="230"src="https://4.bp.blogspot.com/-0aa6fAFnSnA/VzICtBQgciI/AAAAAAAARn4/SxVsQPFNeE0fxkCPVgMWbhd5qIEAYCMbwCLcB/s1600/unb-gama.png"></a></p>
 </p>
 
 ## 6. Processo de Design
 
-O processo de design é uma parte muito importante, pois é nele que há o detalhamento das atividades básicas propostas no design, que são: aa análise da situação atual, a síntese de uma intervenção e a avaliação desse intervenção. Tendo em conhecimento, que existem várias propostas de processo de design de IHC e cada uma possui uma forma diferente de pensar, a equipe debateu e chegou a conclusão que o modelo engenharia de usabilidade de Mayhew seria o mais conveniente para a realização deste projeto.
-
-<div align="center">
-    <img src="../assets/planejamento/processo-design/mayhew.png" />
-</div>
-
 ## 7. Versionamento
 
-| Data       | Versão | Descrição                                    | Autor                                                                           |
-| ---------- | ------ | -------------------------------------------- | ------------------------------------------------------------------------------- |
+| Data       | Versão | Descrição                                    | Autor                                                         |
+| ---------- | ------ | -------------------------------------------- | ------------------------------------------------------------- |
 | 02/03/2021 | 1.0    | Desenvolvimento do documento de planejamento | Tiago Samuel, Guilherme Fernandes, Ítalo Alves, Brenda Santos, Lorrany Oliveira |
-| 04/03/2021 | 2.0    | Revisão e adição do processo de design       | Lucas Boaventura                                                                |
