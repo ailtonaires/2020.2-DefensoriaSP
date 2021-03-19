@@ -22,11 +22,15 @@
 ## Personas
 
 - Antipersona
+
 ![](../assets/personas/persona1.png)
+
 - Persona primária
 ![](../assets/personas/persona2.png)
+
 - Persona primária
 ![](../assets/personas/persona3.png)
+
 - Persona primária
 ![](../assets/personas/persona4.png)
 
@@ -39,4 +43,3 @@
 |    Data    | Versão |                  Descrição                  |               Autores               |
 | :--------: | :----: | :-----------------------------------------: | :---------------------------------: |
 | 19/03/2021 |  0.1   | Criação da estrutura principal do documento | Lorrany Oliveira e Tiago Samuel |
-| 19/03/2021 |  0.2   | Criação do documento | Lorrany Oliveira |
