@@ -3,6 +3,10 @@ img[alt="drawing"] {
   object-fit: cover;
 }
 
+img[id="imagem-grande"] {
+  height: 30rem;
+}
+
 tr:nth-child(odd) {
   background-color: #29c0fb20;
 }
