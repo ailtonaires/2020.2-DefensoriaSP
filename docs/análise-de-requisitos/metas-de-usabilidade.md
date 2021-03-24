@@ -92,3 +92,4 @@ de modo que os usuários possam fazer aquilo que precisam ou desejam.</p>
 | :--------: | :----: | :-----------------------------------------: | :---------------------------------: |
 | 23/03/2021 |  0.1   |      Cria estrutura do documento      | Lucas Boaventura |
 | 23/03/2021 |  1.0   |      Desenvolve documentos de metas de usabilidade      | Lucas Boaventura |
+| 24/03/2021 |  1.1   |      Revisão do documento          | Lorrany Oliveira |
