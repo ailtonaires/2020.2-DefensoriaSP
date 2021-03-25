@@ -18,7 +18,7 @@
 
 <p align='justify'> &emsp; Por conseguinte, só perguntar "O sistema é eficaz?" não vai ser muito útil. É necessário que se pergunte de forma mais detalhada, por exemplo:</p>
 
-- **Pergunta:** "Quanto tempo o usuário levará para descobrir como usar as funções mais básicas do novo aplicativo; quanto ele pode aproveitar da sua experiência em outros aplicativos semelhantes; e quanto tempo levaria para um usuário aprender todas as funções?"
+- **Pergunta:** "Quanto tempo o usuário levará para descobrir como usar as funções mais básicas do novo site; quanto ele pode aproveitar da sua experiência em outros sites semelhantes; e quanto tempo levaria para um usuário aprender todas as funções?"
 
 <p align='justify'> &emsp; Perguntas como essa acima vão fornecer mais informações ao desenvolvedor. Abaixo vamos utilizar perguntas para idealizar as metas dentro do escopo do projeto de IHC sobre o site da <a href="https://www.defensoria.sp.def.br/dpesp/">Defensoria Pública de São Paulo</a></p>
 
@@ -29,7 +29,7 @@
 <p align='justify'> &emsp; A eficácia é uma meta bastante geral e se refere a quanto um produto é bom em fazer o
 que se espera dele.</p>
 
-- **Pergunta:** O aplicativo permite que as pessoas aprendam, realizem a busca de atendimento da Defensoria, a busca dos documentos necessários para determinado serviço ou acessar os panfletos informativos do Órgão?
+- **Pergunta:** O site permite que as pessoas aprendam, realizem a busca de atendimento da Defensoria, a busca dos documentos necessários para determinado serviço ou acessar os panfletos informativos do Órgão?
 - **Meta aplicada ao projeto:** O site deve apresentar em todas as páginas um menu que possua as principais funcionalidades do site, afim de que o usuário possa acessar essas opções em qualquer tela do site. 
 
 ### Eficiência
