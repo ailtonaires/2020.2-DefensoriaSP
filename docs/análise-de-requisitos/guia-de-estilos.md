@@ -61,11 +61,11 @@
 
 <p align='justify'>&emsp;Atualmente, o site em questão utiliza como fonte principal a Arial, variando de cor e tamanho de acordo com o contexto e relevância das informações. A nova proposta seria passar a considerar como fonte principal a Rawline, utilizada por padrão na maioria dos sites governamentais atuais e de melhor expressão visual de acordo com o caráter da página exibida, além de possuir uma variedade de estilos que torna desnecessária a utilização de outra família tipográfica. Segue um exemplo para comparação visual entre as fontes analisadas:</p>
 
-* Arial<br/>
+- ### Arial<br/>
 
 ![](../assets/analise-de-requisitos/guia-de-estilos/arial.jpeg)
 
-* Rawline<br/>
+- ### Rawline<br/>
 
 ![](../assets/analise-de-requisitos/guia-de-estilos/rawline.jpeg)
 
@@ -91,11 +91,11 @@
 <p align='justify'>&emsp;Aqui iremos descrever os elementos que poderão interagir com o usuário. Aqui pensamos principalmente na experiência do usuário ao utilizar estes elementos, são eles:</p>
 
 ### 4.1. Estilos de interação
-* Navbar: será uma barra horizontal para a navegação do usuário no website, possuirá Dropdowns, que serão explicados abaixo. Cada item da navbar será um link para a navegação.
-* Dropdown: é um menu vertical, que possui um título que, ao ser clicado, abre a lista com os subitems.
-* Cards: aqui serão os elementos que possuem geralmente uma imagem, pois podemos adicionar à essa imagem uma descrição. Ele pode ser tanto um link como um card explicativo, que poderá expandir para mostrar um conteúdo maior.
-* Sliders: é um painel de conteúdos em que o seu conteúdo principal muda em um tempo determinado para dar lugar a outro conteúdo. Isso serve para mostrar conteúdos variados em um mesmo lugar para o usuário. O mesmo poderá navegar entre os conteúdos ou clicar para ser redirecionado à página deste conteúdo.
-* Formulários: serão utilizados para login, para contato ou para qualquer outra atividade em que é necessário obter uma informação do usuário.
+* **Navbar:** será uma barra horizontal para a navegação do usuário no website, possuirá Dropdowns, que serão explicados abaixo. Cada item da navbar será um link para a navegação.
+* **Dropdown:** é um menu vertical, que possui um título que, ao ser clicado, abre a lista com os subitems.
+* **Cards:** aqui serão os elementos que possuem geralmente uma imagem, pois podemos adicionar à essa imagem uma descrição. Ele pode ser tanto um link como um card explicativo, que poderá expandir para mostrar um conteúdo maior.
+* **Sliders:** é um painel de conteúdos em que o seu conteúdo principal muda em um tempo determinado para dar lugar a outro conteúdo. Isso serve para mostrar conteúdos variados em um mesmo lugar para o usuário. O mesmo poderá navegar entre os conteúdos ou clicar para ser redirecionado à página deste conteúdo.
+* **Formulários:** serão utilizados para login, para contato ou para qualquer outra atividade em que é necessário obter uma informação do usuário.
 
 ![](../assets/analise-de-requisitos/guia-de-estilos/header.png)
 
@@ -125,11 +125,11 @@
 ## 6.Vocabulários e Padrões
 
 ### 6.1. Terminologia
-* Corregedoria: Órgão encarregado pela fiscalização e orientação dos servidores e defensores da defensoria quanto ao cumprimento de suas obrigações.
-* Conselho Superior: Órgão deliberativo responsável pela determinação de parâmetros mínimos de qualidade da atuação dos defensores públicos, bem como a tomada de decisão em relação ao plano anual de atuação da instituição, eleição e afastamento dos defensores.
-* Ciclo de Conferências: Mecanismo de participação desenvolvido com o intuito de ouvir melhorias propostas pela população do estado em relação a atuação da defensoria.
-* Plantões Judiciários: Sistema de plantões oferecido pela defensoria para atender casos urgentes durante os feriados e finais de semana.
-* Licitações: Exposição dos procedimentos administrativos que formalizam a contratação de serviços adquiridos pela defensoria.
+* **Corregedoria:** Órgão encarregado pela fiscalização e orientação dos servidores e defensores da defensoria quanto ao cumprimento de suas obrigações.
+* **Conselho Superior:** Órgão deliberativo responsável pela determinação de parâmetros mínimos de qualidade da atuação dos defensores públicos, bem como a tomada de decisão em relação ao plano anual de atuação da instituição, eleição e afastamento dos defensores.
+* **Ciclo de Conferências:** Mecanismo de participação desenvolvido com o intuito de ouvir melhorias propostas pela população do estado em relação a atuação da defensoria.
+* **Plantões Judiciários:** Sistema de plantões oferecido pela defensoria para atender casos urgentes durante os feriados e finais de semana.
+* **Licitações:** Exposição dos procedimentos administrativos que formalizam a contratação de serviços adquiridos pela defensoria.
 
 ### 6.2. Tipos de Tela
 <p align='justify'>&emsp;Na defensoria, todas as páginas, independente do que for acessado, possuirão como padrão a exibição dos componentes da navbar, header, footer e links externos:</p>
@@ -149,5 +149,6 @@
 |    Data    | Versão |                  Descrição                  |               Autores               |
 | :--------: | :----: | :-----------------------------------------: | :---------------------------------: |
 | 23/03/2021 |  1.0   | Criação do Guia de Estilo | Brenda Santos e Tiago Samuel |
+| 25/03/2021 |  2.0   | Revisão do documento e ajusta formatação  | Lucas Boaventura |
 
 
