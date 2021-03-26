@@ -16,7 +16,7 @@
 <p align='justify'>&emsp;Para utilizar este guia, basta apenas seguir as orientações de cada tópico. Utilizando sempre os elementos citados e seguindo as regras propostas</p>
 
 ### 1.5. Como manter
-<p align='justify'>&emsp;Para manter o guia, lembre sempre dos fundamentos de IHC para uma boa usabilidade. Todo este guia tem como objetivo melhorar os fundamentos neste website, logo, mesmo realizando refatorações neste documento, se estas mudanás estiverem seguindo os princípios básicos, você está no caminho certo. Caso precise de material para se aprofundar neste conteúdo, cheque os materiais citados no tópico de referências ao final do documento.</p>
+<p align='justify'>&emsp;Para manter o guia, lembre sempre dos fundamentos de IHC para uma boa usabilidade. Todo este guia tem como objetivo melhorar os fundamentos neste website, logo, mesmo realizando refatorações neste documento, se estas mudanças estiverem seguindo os princípios básicos, você está no caminho certo. Caso precise de material para se aprofundar neste conteúdo, cheque os materiais citados no tópico de referências ao final do documento.</p>
 
 ## 2. Descrição do ambiente de trabalho do usuário
 <p align='justify'>&emsp;O website da Defensoria do estado de São Paulo permite a interação do usuário através de cliques em elementos na tela. Tendo isso em vista, o ambiente de trabalho do usuário é qualquer navegador web que ele utilize, permitindo o acesso ao site. É importante ressaltar que o monitor utilizado pode ser diferente para cada usuário, logo o design deve ser responsivo para cada resolução, permitindo a melhor experiência para todos usuários.</p>
