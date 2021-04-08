@@ -1,0 +1,73 @@
+# Planejamento da avaliação da Análise de Tarefas
+
+## 1. Introdução
+
+<p>&emsp;A avaliação de IHC é uma atividade fundamental em qualquer processo de desenvolvimento que busque produzir um sistema interativo com alta qualidade de uso. Ela orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Assim, é possível corrigir os problemas relacionados com a qualidade de uso antes de inserir o sistema interativo no cotidiano dos usuários, seja um sistema novo ou uma nova versão de algum sistema existente. </p>
+
+<p>&emsp;A avaliação em contexto, que constitui uma forma de estudo de campo, aumenta as chances de verificarmos a qualidade de uso da solução de IHC perante um conjunto maior e mais diversificado de situações de uso. Apesar de não ser capaz de analisar todas as situações de uso possíveis, esse tipo de avaliação fornece dados de situações típicas de uso que não seriam percebidos em uma avaliação em laboratório. (Barbosa e Silva, 2019, p. 295)</p>
+
+## 2. Objetivos
+
+<p>&emsp;O objetivo dessa etapa é verificar se o fluxo identificado durante a fase de análise de tarefas condiz com as atividades realizadas por um usuário em contexto real de uso.</p>
+
+<p>&emsp;Dessa forma, ela permite entender melhor como os usuários se apropriam da tecnologia no site da Defensoria no seu cotidiano e quais problemas podem ocorrer em situações reais de uso.</p>
+
+## 3. Metodologia
+
+<p>&emsp;Será realizada uma sessão de entrevistas com os usuários do site Defensoria SP. Essa técnica é utilizada para coletar dados e representará uma pesquisa qualitativa, onde os conceitos não são representados numéricamente, para descrever a rotina e problemáticas que os usuários enfrentam. </p>
+
+<p>&emsp;Esse tipo de abordagem permite a coleta de dados individuais de cada usuário e é bastante flexível, mas pode ser difícil para assegurar que certos aspectos do sistema sejam analisados.</p>
+
+## 4. Preparação
+
+<p>&emsp;Partindo do princípio que o objetivo da entrevista é a validação da análise de tarefas realizada anteriormente, serão convocadas pessoas que se enquadrem no perfil de usuário principal para a participação da entrevista. Esses perfil de usuário foi traçado durante a fase de pesquisa sobre o perfil de usuário. Nessa etapa atual, foi decidido que todos os entrevistados devem já ter utilizado o site da Defensoria SP.</p>
+<p>&emsp;Antes que se comece a entrevista, os entrevistadores irão cuidar da contextualização necessária e explicação de alguns termos para que não se cause confusão nos entrevistados.</p>
+
+## 5. Entrevista
+
+<p>&emsp;A entrevista se trata de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado. Ela irá conter perguntas abertas e fechadas e seguirá a estutura geral formada pelos tópicos de apresentação, onde o apresentador deve apresentar a si mesmo e realizar: o objetivo da entrevista, um período de aquecimento, no qual são feitas perguntas de fácil resposta (exemplo: dados demográficos), a parte principal da entrevista (a qual o roteiro é explorado) e a conclusão. Então, o entrevistador agradece ao entrevistado pelo seu tempo, desliga o gravador e guarda suas anotações e a entrevista é finalizada.</p>
+
+## 6. Perguntas
+
+|Número|Pergunta|Estrutura da Resposta|
+|------|--------|---------------------|
+|1|Qual seu nome?|Pergunta aberta|
+|2|Qual sua idade|Pergunta aberta|
+|3|Qual seu gênero|[ ] Masculino<br/>[ ] Feminino<br/>[ ] Não binário<br/>[ ] Outro, qual?|
+|5|Você já utilizou o website da Defensoria Pública do estado de São Paulo?|[ ] Sim<br/>[ ] Não<br/>⚠️ Caso a resposta seja "Não", finalize a entrevista|
+|6|Você já buscou por informações de atendimento da Defensoria Pública no website?|[ ] Sim<br/>[ ] Não<br/>⚠️ Caso a resposta seja "Não", pule para a pergunta 13|
+||<strong>Observações para as próximas perguntas abertas:</strong><br/>Responda as perguntas identificando os menus em que foi necessário cliques para chegar à informação, não é necessário identificar todos os detalhes do fluxo, apenas o suficiente para reprodução através da resposta||
+|7|Dentro do website, como você verifica os locais de atendimento?|Pergunta aberta|
+|8|Dentro do website, como você acessa os serviços da Defensoria?|Pergunta aberta|
+|9|Dentro do website, como você verifica os documentos necessários?|Pergunta aberta|
+|10|Dentro do website, como você acessa aos planfletos informativos?|Pergunta aberta|
+|11|Dentro do website, como você acessa às dúvidas frequentes?|Pergunta aberta|
+|12|Dentro do website, como você entra em contato com a Defensoria?|Pergunta aberta|
+|13|Você já utilizou o atendimento virtual de chatbot da Defensoria Pública?|[ ] Sim<br/>[ ] Não<br/>⚠️ Caso a resposta seja "Não", pule para a pergunta 15|
+|14|Você conseguiu ler o material institucional através do chatbot?|[ ] Sim<br/>[ ] Não|
+|15|Você já obteve informações sobre a instituição da Defensoria Pública pelo website?|[ ] Sim<br/>[ ] Não<br/>⚠️ Caso a resposta seja "Não", pule para a pergunta 22|
+|16|Dentro do website, como você acessa à seção "Quem Somos" do website?|Pergunta aberta|
+|17|Dentro do website, como você acessa às áreas de atuação da Defensoria?|Pergunta aberta|
+|18|Dentro do website, como você acessa à seção "Saiba Mais" do website?|Pergunta aberta|
+|19|Dentro do website, como você verifica os defensores da Defensoria?|Pergunta aberta|
+|20|Dentro do website, como você verifica os órgãos da Defensoria?|Pergunta aberta|
+|21|Dentro do website, como você acessa à seção "Núcleo Especializado"?|Pergunta aberta|
+|22|Dentro do website, você encontrou alguma dificuldade ou problema ao utilizá-lo?|[ ] Sim<br/>[ ] Não<br/>⚠️ Caso a resposta seja "Não", pule para a pergunta 25|
+|23|Quais as dificuldades/problemas encontrados?|Pergunta aberta|
+|24|O que você sugere para solucionar esses problemas ou melhorar a experiência?|Pergunta aberta|
+|25|Você sentiu falta de algo ao utilizar o website?|[ ] Sim<br/>[ ] Não<br/>⚠️ Caso a resposta seja "Não", finalize a entrevista|
+|26|Do que sentiu falta no website?|Pergunta aberta|
+
+## 7. Resultados
+<p>&emsp;As entrevistas realizadas serão documentadas e as respostas serão consolidadas como forma de insumo para uma nova análise de tarefas, de acordo com a visão do usuário final.</p>
+
+## 8. Bibliografia
+
+- SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a . Edição, Editora Campus, 2010
+
+## Versionamento
+
+| Data       | Versão | Descrição                    | Autor            |
+| ---------- | ------ | ---------------------------- | ---------------- |
+| 07/04/2021 | 1.0    | Desenvolvimento do Documento | Ítalo Alves e Tiago Samuel Rodrigues |
+| 08/04/2021 | 2.0    | Revisa documento e adiciona algumas formatações | Lucas Boaventura e Brenda Santos |
