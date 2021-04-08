@@ -2,29 +2,30 @@
 
 ## 1. Introdução
 
-A avaliação de IHC é uma atividade fundamental em qualquer processo de desenvolvimento que busque produzir um sistema interativo com alta qualidade de uso. Ela orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Assim, é possível corrigir os problemas relacionados com a qualidade de uso antes de inserir o sistema interativo no cotidiano dos usuários, seja um sistema novo ou uma nova versão de algum sistema existente. 
+<p>&emsp;A avaliação de IHC é uma atividade fundamental em qualquer processo de desenvolvimento que busque produzir um sistema interativo com alta qualidade de uso. Ela orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Assim, é possível corrigir os problemas relacionados com a qualidade de uso antes de inserir o sistema interativo no cotidiano dos usuários, seja um sistema novo ou uma nova versão de algum sistema existente. </p>
 
-A avaliação em contexto, que constitui uma forma de estudo de campo, aumenta as chances de verificarmos a qualidade de uso da solução de IHC perante um conjunto maior e mais diversificado de situações de uso. Apesar de não ser capaz de analisar todas as situações de uso possíveis, esse tipo de avaliação fornece dados de situações típicas de uso que não seriam percebidos em uma avaliação em laboratório. (Barbosa e Silva, 2019, p. 295)
+<p>&emsp;A avaliação em contexto, que constitui uma forma de estudo de campo, aumenta as chances de verificarmos a qualidade de uso da solução de IHC perante um conjunto maior e mais diversificado de situações de uso. Apesar de não ser capaz de analisar todas as situações de uso possíveis, esse tipo de avaliação fornece dados de situações típicas de uso que não seriam percebidos em uma avaliação em laboratório. (Barbosa e Silva, 2019, p. 295)</p>
 
 ## 2. Objetivos
 
-O objetivo dessa etapa é verificar se o fluxo identificado durante a fase de análise de tarefas condiz com as atividades realizadas por um usuário em contexto real de uso.
+<p>&emsp;O objetivo dessa etapa é verificar se o fluxo identificado durante a fase de análise de tarefas condiz com as atividades realizadas por um usuário em contexto real de uso.</p>
 
-Dessa forma, ela permite entender melhor como os usuários se apropriam da tecnologia no site da Defensoria no seu cotidiano e quais problemas podem ocorrer em situações reais de uso.
+<p>&emsp;Dessa forma, ela permite entender melhor como os usuários se apropriam da tecnologia no site da Defensoria no seu cotidiano e quais problemas podem ocorrer em situações reais de uso.</p>
 
 ## 3. Metodologia
 
-Será realizada uma sessão de entrevistas com os usuários do site Defensoria SP. Essa técnica é utilizada para coletar dados e representará uma pesquisa qualitativa, onde os conceitos não são representados numéricamente, para descrever a rotina e problemáticas que os usuários enfrentam. 
-Esse tipo de abordagem permite a coleta de dados individuais de cada usuário e é bastante flexível, mas pode ser difícil para assegurar que certos aspectos do sistema sejam analisados.
+<p>&emsp;Será realizada uma sessão de entrevistas com os usuários do site Defensoria SP. Essa técnica é utilizada para coletar dados e representará uma pesquisa qualitativa, onde os conceitos não são representados numéricamente, para descrever a rotina e problemáticas que os usuários enfrentam. </p>
+
+<p>&emsp;Esse tipo de abordagem permite a coleta de dados individuais de cada usuário e é bastante flexível, mas pode ser difícil para assegurar que certos aspectos do sistema sejam analisados.</p>
 
 ## 4. Preparação
 
-Partindo do princípio que o objetivo da entrevista é a validação da análise de tarefas realizada anteriormente, serão convocadas pessoas que se enquadrem no perfil de usuário principal para a participação da entrevista. Esses perfil de usuário foi traçado durante a fase de pesquisa sobre o perfil de usuário. Nessa etapa atual, foi decidido que todos os entrevistados devem já ter utilizado o site da Defensoria SP.
-Antes que se comece a entrevista, os entrevistadores irão cuidar da contextualização necessária e explicação de alguns termos para que não se cause confusão nos entrevistados.
+<p>&emsp;Partindo do princípio que o objetivo da entrevista é a validação da análise de tarefas realizada anteriormente, serão convocadas pessoas que se enquadrem no perfil de usuário principal para a participação da entrevista. Esses perfil de usuário foi traçado durante a fase de pesquisa sobre o perfil de usuário. Nessa etapa atual, foi decidido que todos os entrevistados devem já ter utilizado o site da Defensoria SP.</p>
+<p>&emsp;Antes que se comece a entrevista, os entrevistadores irão cuidar da contextualização necessária e explicação de alguns termos para que não se cause confusão nos entrevistados.</p>
 
 ## 5. Entrevista
 
-A entrevista se trata de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado. Ela irá conter perguntas abertas e fechadas e seguirá a estutura geral formada pelos tópicos de apresentação, onde o apresentador deve apresentar a si mesmo e realizar: o objetivo da entrevista, um período de aquecimento, no qual são feitas perguntas de fácil resposta (exemplo: dados demográficos), a parte principal da entrevista (a qual o roteiro é explorado) e a conclusão. Então, o entrevistador agradece ao entrevistado pelo seu tempo, desliga o gravador e guarda suas anotações e a entrevista é finalizada.
+<p>&emsp;A entrevista se trata de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado. Ela irá conter perguntas abertas e fechadas e seguirá a estutura geral formada pelos tópicos de apresentação, onde o apresentador deve apresentar a si mesmo e realizar: o objetivo da entrevista, um período de aquecimento, no qual são feitas perguntas de fácil resposta (exemplo: dados demográficos), a parte principal da entrevista (a qual o roteiro é explorado) e a conclusão. Então, o entrevistador agradece ao entrevistado pelo seu tempo, desliga o gravador e guarda suas anotações e a entrevista é finalizada.</p>
 
 ## 6. Perguntas
 
@@ -58,7 +59,7 @@ A entrevista se trata de uma conversa guiada por um roteiro de perguntas ou tóp
 |26|Do que sentiu falta no website?|Pergunta aberta|
 
 ## 7. Resultados
-As entrevistas realizadas serão documentadas e as respostas serão consolidadas como forma de insumo para uma nova análise de tarefas, de acordo com a visão do usuário final.
+<p>&emsp;As entrevistas realizadas serão documentadas e as respostas serão consolidadas como forma de insumo para uma nova análise de tarefas, de acordo com a visão do usuário final.</p>
 
 ## 8. Bibliografia
 
@@ -69,3 +70,4 @@ As entrevistas realizadas serão documentadas e as respostas serão consolidadas
 | Data       | Versão | Descrição                    | Autor            |
 | ---------- | ------ | ---------------------------- | ---------------- |
 | 07/04/2021 | 1.0    | Desenvolvimento do Documento | Ítalo Alves e Tiago Samuel Rodrigues |
+| 08/04/2021 | 2.0    | Revisa documento e adiciona algumas formatações | Lucas Boaventura e Brenda Santos |
