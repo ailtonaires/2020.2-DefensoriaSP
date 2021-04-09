@@ -185,5 +185,6 @@
 
 |    Data    | Versão |                  Descrição                  |            Autores             |
 | :--------: | :----: | :-----------------------------------------: | :----------------------------: |
-| 08/04/2021 |  0.1   | Criação da estrutura principal do documento | Guilherme Fernandes|
+| 08/04/2021 | 1.0   | Criação da estrutura principal do documento | Guilherme Fernandes|
+| 09/04/2021 |  2.0   | Revisão do documento | Lucas Boaventura|
 
