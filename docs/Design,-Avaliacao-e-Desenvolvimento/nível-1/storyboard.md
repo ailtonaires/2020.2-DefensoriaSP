@@ -11,6 +11,12 @@
 ## 3. Metodologia
 <p>&emsp; Para o desenvolvimento deste documento, foi feita uma análise acima do documento de análise de tarefas. Para a realização dos quadrinhos, foi feita a utilização da ferramenta StoryBoardThat.</p>
 
+## 4. Resultado
+#### Storyboard 1 - Receber atendimento 
+![](../assets/storyboard/receber-atendimento-highres.png)
+
+### Storyboard 2 - Atendimento virtual com chat-bot
+![](../assets/storyboard/atendimento-chat-bot-highres.png)
 
 ## 8. Bibliografia
 - MJV, Prototipagem: o guia definitivo para colocar sua ideia na rua. Disponível em:<https://www.mjvinnovation.com/pt-br/blog/prototipagem-o-guia-definitivo/#:~:text=A%20prototipagem%20%C3%A9%20a%20quarta,na%20fase%20anterior%2C%20a%20Idea%C3%A7%C3%A3o.&text=Seu%20objetivo%20%C3%A9%20revelar%20problemas%20de%20design%2C%20usabilidade%20ou%20adequa%C3%A7%C3%A3o.>. Acesso: 08/04/2020.
@@ -22,4 +28,4 @@
 | Data       | Versão | Descrição                    | Autor            |
 | ---------- | ------ | ---------------------------- | ---------------- |
 | 08/04/2021 | 1.0    | Desenvolvimento do Documento | Lorrany Oliveira |
-
+| 09/04/2021 | 1.1    | Adiciona os storyboard | Lorrany Oliveira |
