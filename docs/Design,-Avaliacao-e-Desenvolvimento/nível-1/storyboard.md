@@ -29,3 +29,4 @@
 | ---------- | ------ | ---------------------------- | ---------------- |
 | 08/04/2021 | 1.0    | Desenvolvimento do Documento | Lorrany Oliveira |
 | 09/04/2021 | 1.1    | Adiciona os storyboard | Lorrany Oliveira |
+| 11/04/2021 | 2.0    | Revisa documento |Lucas Boaventura |
