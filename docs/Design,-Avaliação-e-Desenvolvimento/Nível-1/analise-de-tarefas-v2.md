@@ -1,4 +1,4 @@
-# Análise de Tarefas
+# Análise de Tarefas v2
 
 <p align='justify'>&emsp; A análise de tarefas é utilizada em diferentes momentos do desenvolvimento, sendo comumente utilizada para  entender sobre qual é o esforço dos usuários, como e por quê eles realizam determinadas tarefas. Nesse tipo de análise, o esforço do usuário é definido em termos dos objetivos que eles querem ou precisam atingir. As tarefas analisadas podem ser descritas através de casos de uso e cenários e alguns dos métodos mais comuns de análise de tarefas são a Análise Hierárquica de Tarefas (HTA) e o modelo GOMS. </p>
 
