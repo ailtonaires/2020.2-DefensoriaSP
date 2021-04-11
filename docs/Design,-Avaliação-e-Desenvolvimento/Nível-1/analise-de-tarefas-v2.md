@@ -18,7 +18,7 @@
 
 <br>
 <p align='center'>
-    <img src="../../assets/analise-de-requisitos/atendimento-v2.png">
+    <img src="../../../assets/analise-de-requisitos/atendimento-v2.png">
     <figcaption align='center'>
         <b>Figura 1: Diagrama de Análise Hierárquica da tarefa de "Receber atendimento". </b>
         <br> 
@@ -73,7 +73,7 @@
 
 <br>
 <p align='center'>
-    <img src="../../assets/analise-de-requisitos/atendimento-virtual.png">
+    <img src="../../../assets/analise-de-requisitos/atendimento-virtual.png">
     <figcaption align='center'>
         <b>Figura 2: Diagrama de Análise Hierárquica da tarefa de "Abrir o atendimento virtual". </b>
         <br> 
@@ -125,7 +125,7 @@
 
 <br>
 <p align='center'>
-    <img src="../../assets/analise-de-requisitos/institucional.png">
+    <img src="../../../assets/analise-de-requisitos/institucional.png">
     <figcaption align='center'>
         <b>Figura 3: Diagrama de Análise Hierárquica da tarefa de "Visitar Institucional". </b>
         <br> 
@@ -186,5 +186,5 @@
 |    Data    | Versão |                  Descrição                  |            Autores             |
 | :--------: | :----: | :-----------------------------------------: | :----------------------------: |
 | 08/04/2021 | 1.0   | Criação da estrutura principal do documento | Guilherme Fernandes|
-| 09/04/2021 |  2.0   | Revisão do documento | Lucas Boaventura|
+| 09/04/2021 |  2.0   | Revisão do documento e alteração de caminho das imagens | Lucas Boaventura|
 
