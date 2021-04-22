@@ -12,7 +12,7 @@
 
 <p>&emsp; Visto que foi identificado a necessidade de validar alguns artefatos do nosso projeto através de entrevistas com clientes, foi necessário a realização de um termo de consentimento.</p>
 
-# 3. Termo de Consentimento - Storyboard
+## 3. Termo de Consentimento - Storyboard
 
 <p>&emsp; Nós domos alunos de Engenharia de Software  da Universidade de Brasília, e estamos realizando um projeto de da disciplina de Interação Humano Computador, com o objetivo de observar a interface do site da Defensoria Pública do Estado de São Paulo.</p>
 
@@ -26,16 +26,17 @@
 
 <p>&emsp; A duração da entrevista não vai passar de 15 minutos.</p>
 
-<p>&emsp; Agradecemos sua análise e atenção, obrigado!.</p>
+<p>&emsp; Agradecemos sua análise e atenção, obrigado!</p>
 
-## 6. Referências Bibliográficas
+## 4. Referências Bibliográficas
 
 - BARBOSA, S.D.J.; SILVA, B.S. Interação Humano--Computador.Editora Campus- ElsevierElsevier, 2010.
 
-## 7. Versionamento
+## 5. Versionamento
 
 | Data       | Versão | Descrição                                 | Autor            |
 | ---------- | ------ | ----------------------------------------- | ---------------- |
 | 22/04/2021 | 1.0    | Desenvolvimento do termo de consentimento | Lucas Boaventura |
 | 22/04/2021 | 1.1    | Revisão do documento | Lorrany Oliveira |
+| 22/04/2021 | 1.2    | Correção de Erros | Tiago Samuel Rodrigues |
 
