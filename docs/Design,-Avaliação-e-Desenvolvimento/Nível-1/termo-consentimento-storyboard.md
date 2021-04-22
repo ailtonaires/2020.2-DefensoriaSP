@@ -37,3 +37,5 @@
 | Data       | Versão | Descrição                                 | Autor            |
 | ---------- | ------ | ----------------------------------------- | ---------------- |
 | 22/04/2021 | 1.0    | Desenvolvimento do termo de consentimento | Lucas Boaventura |
+| 22/04/2021 | 1.1    | Revisão do documento | Lorrany Oliveira |
+
