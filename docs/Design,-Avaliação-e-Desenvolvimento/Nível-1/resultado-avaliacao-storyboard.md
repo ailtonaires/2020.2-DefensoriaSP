@@ -1,25 +1,75 @@
-# Avaliação Storyboard
+# 1. Avaliação Storyboard
 ## Objetivo
+A avaliação do storyboard tem como objetivo validar o protótipo desenhado para cada funcionalidade do sistema.
+O objetivo do storyboard é demonstrar as tarefa do sistema através de um protótipo.
 
-### 1. Carla Alves
-#### 1.1. Questionário da Tarefa: Receber Atendimento
+### 2. Carla Alves
+Carla é uma persona desenvolvida anteriormente no projeto. Ela participará da entrevista em relação ao storyboard.
 
-#### 1.2. Qustionário da Tarefa: Atendimento Virtual com Chat-Bot
+#### 2.1. Perguntas gerais do questionário
+| Número | Pergunta | Estrutura da Resposta |
+| ------ | -------- | --------------------- |
+| 1 | Qual seu nome? | Carla Alves |
+| 2 | Qual sua idade | 42 anos |
+| 3 | Qual seu gênero | [&emsp;] Masculino<br/>[ x ] Feminino<br/>[&emsp;] Não binário<br/>[&emsp;] Outro, qual? |
 
-### 3. Relatório das Avaliações
-### Persona 1
+#### 2.2. Questionário da Tarefa: Receber Atendimento
+| Número | Pergunta | Estrutura da Resposta |
+| ------ | -------- | --------------------- |
+| 4 | A situação ilustrada condiz com a realidade? | [ x ] Sim</br>[&emsp;] Não |
+| 5 | Qual a sugestão de alteração ou melhoria para o storyboard sugere? | Nenhuma. O storyboard ilustra de forma clara o fluxo que provavelmente será seguido por usuários do site. |
 
+#### 2.3. Qustionário da Tarefa: Atendimento Virtual com Chat-Bot
+| Número | Pergunta | Estrutura da Resposta |
+| ------ | -------- | --------------------- |
+| 6 | A situação ilustrada condiz com a realidade? | [ x ] Sim</br>[&emsp;] Não |
+| 7 | A situação ilustrada retrata bem o quanto a busca de informações da Defensoria pelo chat bot? | [ x ] Sim</br>[&emsp;] Não |
 
-### Persona 2
+### 3. Marcos Sousa
+Marcos é uma persona desenvolvida anteriormente no projeto. Ele irá participar da entrevista em relação ao storyboard. Caso queira ver os detalhes do documento de persona de Marcos clique [aqui](https://interacao-humano-computador.github.io/2020.2-DefensoriaSP/an%C3%A1lise-de-requisitos/personas/#persona-primaria).
 
-### 4. Referências Bibliográficas
+#### 3.1. Perguntas gerais do questionário
+| Número | Pergunta | Estrutura da Resposta |
+| ------ | -------- | --------------------- |
+| 1 | Qual seu nome? | Marcos Sousa |
+| 2 | Qual sua idade | 26 anos |
+| 3 | Qual seu gênero | [ x ] Masculino<br/>[&emsp;] Feminino<br/>[&emsp;] Não binário<br/>[&emsp;] Outro, qual? |
+
+#### 3.2. Questionário da Tarefa: Receber Atendimento
+| Número | Pergunta | Estrutura da Resposta |
+| ------ | -------- | --------------------- |
+| 4 | A situação ilustrada condiz com a realidade? | [ x ] Sim</br>[&emsp;] Não |
+| 5 | Qual a sugestão de alteração ou melhoria para o storyboard sugere? | Acredito que o documento possa especificar um pouco mais sobre o processo dentro do website. |
+
+#### 3.3. Qustionário da Tarefa: Atendimento Virtual com Chat-Bot
+| Número | Pergunta | Estrutura da Resposta |
+| ------ | -------- | --------------------- |
+| 6 | A situação ilustrada condiz com a realidade? | [&emsp;] Sim</br>[ x ] Não |
+| 7 | A situação ilustrada retrata bem o quanto a busca de informações da Defensoria pelo chat bot? | [&emsp;] Sim</br>[ x ] Não |
+
+### 4. Relatório das Avaliações
+
+#### 4.1. Marcos Sousa
+Após a entrevista, o entrevistado relatou que o procedimento do storyboard está correto, porém ele alega dificuldade em visualizar o que está escrito na página por conta da fonte e do enquadramento do site.
+Sugestão: Aumento da fonte e do enquadramento do site.
+
+O entrevistado relatou problemas no detalhamento do storyboard.
+Sugestão: Aumento do detalhamento dos quadros no storyboard.
+
+O entrevistado relatou problemas na situação descrita, pois ela não condiz totalmente com a realidade. Em vez de buscar um cahtbot como a primeira opção de busca de informações, ele acredita que o chatbot é uma opção de busca de ajuda dentro do website.
+Sugestão: Mudança da situação para uma mais condizente com a realidade.
+
+#### 4.2. Carla Alves
+A entrevistada relatou estar razoavelmente satisfeita com os storyboards produzidos, porém mostrou indicios de que acha a técnica simplista demais, ou seja, relata situações de forma muito direta e quetalvez devesse mostrar mais o envolvimento do usuário com o site, não que apenas acessou o site procurando encontrar determinada funcionalidade.
+
+### 5. Referências Bibliográficas
 
 - SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a . Edição, Editora Campus, 2010
 
-### 5. Versionamento
+### 6. Versionamento
 
 
 | Data       | Versão |                               Descrição                      | Autor         |
 | ---------- | ------ | ------------------------------------------------------------ | ------------- |
-| 22/04/2021 | 1.0    | Criação do Documento e desenvolvimento do primeiro resultado | Brenda Santos |
+| 22/04/2021 | 1.0    | Criação do Documento e desenvolvimento do primeiro resultado | Brenda Santos e Tiago Samuel Rodrigues |
 
