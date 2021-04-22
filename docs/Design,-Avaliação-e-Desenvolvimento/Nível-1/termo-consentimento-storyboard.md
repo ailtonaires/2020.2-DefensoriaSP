@@ -14,7 +14,7 @@
 
 ## 3. Termo de Consentimento - Storyboard
 
-<p>&emsp; Nós domos alunos de Engenharia de Software  da Universidade de Brasília, e estamos realizando um projeto de da disciplina de Interação Humano Computador, com o objetivo de observar a interface do site da Defensoria Pública do Estado de São Paulo.</p>
+<p>&emsp; Nós somos alunos de Engenharia de Software da Universidade de Brasília, e estamos realizando um projeto de da disciplina de Interação Humano Computador, com o objetivo de observar a interface do site da Defensoria Pública do Estado de São Paulo.</p>
 
 <p>&emsp; O objetivo da entrevista que você irá participar é avaliar os Storyboards realizados surante a etapa de Prototipação de baixa fidelidade do nosso projeto, que visa melhorar a interface so site da Defensoria Pública do Estado de São Paulo.</p>
 
