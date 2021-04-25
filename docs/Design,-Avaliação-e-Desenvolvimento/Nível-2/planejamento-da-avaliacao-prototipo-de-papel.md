@@ -1,0 +1,81 @@
+# Planejamento da Avaliação - Protótipo de Papel
+
+## 1. Introdução
+
+&emsp;A avaliação de IHC é uma etapa necessária em qualquer projeto de sistema interativo. Com o objetivo de garantir que o produto entregue ao consumidor atende as suas necessidades, é necessário avaliá-lo sob a perspectiva de quem constroi e de quem o utiliza. Dessa forma, ao avaliar a interação do usuário com a interface é possível analisá-la com o intuito de procurar erros que prejudiquem a experiência do usuário e corrigí-los para entregar ao usuário o produto com maior qualidade possível.
+
+## 2. Método utilizado
+
+&emsp;A prototipação em papel tem como objetivo avaliar a usabilidade de um design de IHC desenvolvido no papel, utilizando simulações de uso com participantes que representam potenciais usuários do sistema. É um método de observação, no qual o usuário é observado interagindo com o sistema e dessa forma a equipe de design pode avaliar as diferentes soluções de interface. Além disso, por meio desse método, é possível analisar o que funciona bem e o que apresenta problemas de usabilidade na interface.
+
+&emsp;A prototipação em papel é dividida nas seguintes atividades: Preparação, coleta de dados, interpretação, consolidação dos resultados e relato dos resultados.
+
+&emsp;As etapas necessárias antes de iniciar a avaliação da protótipação em papel são:
+
+- Definir o escopo da avaliação (tarefas realizadas, partes da interface constintuintes etc);
+- Definir o perfil e o número de participantes;
+- Debater as questões éticas e os cuidados a serem tomados na avaliação;
+- Alocar pessoal, recursos e equipamentos;
+- Criar e imprimir o material de apoio;
+- Criar o termo de consentimento e entregá-lo ao participante para obter autorização;
+- Elaborar o questionário de pré e pós teste;
+- Elaborar as instruções e cenários para orientar os participantes sobre as tarefas a serem realizadas;
+- Definir o roteiro de acompanhamento da observação para capturar dados e anotações;
+- Preparar o ambiente de hardware e software;
+- Realizar um teste-piloto;
+- Recrutar participantes.
+
+## 3. Tarefas
+
+&emsp;Na avaliação será observada a interação do usuário com a interface na realização das seguintes tarefas: verificar documentos necessários, ler material institucional e verificar áreas de atuação.
+
+## 4. Perfil dos participantes
+
+&emsp;O perfil dos participantes da pesquisa deve ser constituído de pessoas que residem no Brasil, que nunca interagiram com o site da Defensoria Pública do estado de São Paulo e que já utilizaram sites de serviços públicos.
+
+## 5. Perguntas a serem respondidas
+
+&emsp;Tendo em vista o escopo da avaliação, as perguntas direcionadas ao usuário terão enfoque em usabilidade, sendo elas:
+
+- O usuário consegue operar o sistema?
+- Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?
+- Que parte da interface e da interação o deixa insatisfeito?
+- Que parte da interface o desmotiva a explorar novas funcionalidades?
+- Ele entende o que significa e para que serve cada elemento de interface?
+- Ele vai entender o que deve fazer em seguida?
+- Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?
+- Quais barreiras o usuário encontra para atingir seus objetivos?
+- Ele tem acesso a todas as informações oferecidas pelo sistema?
+
+## 6. Resultados Esperados
+
+- Tarefas executadas pelos participantes da avaliação.
+- Número e perfil dos participantes.
+- Problemas encontrados na interface que foram corrigidos durante a avaliação e reprojeto, indicando para cada:
+
+  - Local onde ocorreu;
+  - Fatores de usabilidade prejudicados;
+  - Problema descrito e justificado;
+  - Correção feita no protótipo de papel;
+  - Indicação quanto à reincidência do problema.
+
+- Problemas encontrados na interface que não foram corrigidos durante a avaliação e reprojeto, indicando para cada:
+
+  - local onde ocorreu;
+  - fatores de usabilidade prejudicados;
+  - descrição e justificativa do problema;
+  - prioridade para correção;
+  - sugestões de correção.
+
+- Sugestões de melhoria na interface.
+
+## 7. Conclusão
+
+&emsp; Esse documento foi criado para auxiliar o avaliador durante a realização da avaliação do Protótipo de baixa fidelidade. Mesmo assim, o avaliador segue livre para executar mudanças no roteiro da avaliação de acordo com a sua percepção e necessidade dos entrevistados, lembrando-se sempre de manter um padrão entre cada entrevista.
+
+## 8. Versionamento
+
+|    Data    | Versão |                                    Descrição                                    |               Autor               |
+| :--------: | :----: | :-----------------------------------------------------------------------------: | :-------------------------------: |
+| 22/04/2021 |  1.0   | Desenvolvimento do documento de Planejamento da Avaliação do Protótipo de Papel | Guilherme Fernandes e Ítalo Alves |
+| 23/04/2021 |  2.0   |                  Revisa o documento e cria tópico de conclusão                  |         Lucas Boaventura          |
