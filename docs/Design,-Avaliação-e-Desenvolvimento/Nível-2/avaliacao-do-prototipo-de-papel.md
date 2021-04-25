@@ -97,8 +97,13 @@ Dessa forma, é possível assegurar ao usuário uma interface com boa usabilidad
 | Quais barreiras o usuário encontra para atingir seus objetivos?                                            | Entender o que cada página possui de informação                                              |
 | Ele tem acesso a todas as e informações oferecidas pelo sistema?                                           | Sim                                                                                          |
 
-## Versionamento
+## 4. Conclusão
+
+&emsp; Os resultados das entrevistas foram muito bons e úteis para a continuação do projeto. Seguindo o teste-piloto foi possível corrigir alguns problemas que o protótipo de papel tinha. Através das entrevistas também foram possíveis observar os erros de design que serão considerados para os próximos protótipos.
+
+## 5. Versionamento
 
 |    Data    | Versão |                            Descrição                            |               Autor               |
 | :--------: | :----: | :-------------------------------------------------------------: | :-------------------------------: |
 | 22/04/2021 |  1.0   | Desenvolvimento do documento de Avaliação do Protótipo de Papel | Guilherme Fernandes e Ítalo Alves |
+| 23/04/2021 |  2.0   |      Revisão do documento e adição do tópico de conclusão       |         Lucas Boaventura          |
