@@ -1,0 +1,67 @@
+# Planejamento da Avaliação do StoryBoard
+
+## 1. Introdução
+
+<p> &emsp; A utilização dos Storyboards na atividade de design é de extrema importância para concretizar as ideias e corrigir os erros cometidos nas etapas iniciais do projeto.</p>
+
+<p> &emsp; Após a elaboração do Storyboard, é importante que seja realizado uma avaliação e validação junto com os usuários do produto, para confirmar se as decisões so time fazem sentido.</p>
+
+<p> &emsp; Por conseguinte, este documento tem o objetivo de planejar como será realizado a avaliação do storyboard desenvolvido pelo nosso time.</p>
+
+## 2. Objetivo
+
+<p> &emsp; O objetivo desse documento é explicar o máximo possível os detalhes referentes a avaliação dos Storyboards, a fim de que o avaliador não tenha dúvidas e nem questionamentos durante a avaliação e possa realizar uma avaliação metódica e sistemática com os usuários.</p>
+
+## 3. Metodologia
+
+<p> &emsp; O método de avaliação escolhido para avaliar o Storyboard é o de <strong>investigação</strong> através da técnica de <strong>entrevista</strong>.</p>
+
+<p> &emsp; Este método permite ao avaliador ter contato, interpretar e analisar as concepções, opiniões, desejos, e ações do usuário relacionado com sistemas interativos, além de permitir investigar alternativas de design, problemas que os usuários enfrentam utilizar o sistema no dia a dia e como eles lidam com a tecnologia existente no sistema.</p>
+
+## 4. Avaliação
+
+### 4.1 Definição das tarefas que serão executadas
+
+<p> &emsp; Para validação do Storyboard serão feitas algumas perguntas, através dessas perguntas poderemos saber se os Storyboards estão de acordo ou não com a realidade dos usuários que serão entrevistados, se há alguma sugestão, problema, ou algo que possa ser acrescentando e checar até possíveis erros que podem ser identificados.</p>
+
+### 4.2 Preparação
+
+<p>&emsp;Partindo do princípio que o objetivo da entrevista é a validação do Storyboard documentado anteriormente, serão convocadas pessoas que se enquadrem no perfil de usuário principal para a participação da entrevista. Esses perfil de usuário foi traçado durante a fase de pesquisa sobre o perfil de usuário.</p>
+
+<p>&emsp;Antes que se comece a entrevista, os entrevistadores irão cuidar da contextualização necessária e explicação de alguns termos para que não se cause confusão nos entrevistados, além de apresentar o termo de consentimento para que o usuário possa ver o objetivo da entrevista e concordar em compartilhar os resultados.</p>
+
+### 4.3 Roteiro das perguntas
+
+<p> &emsp; Para essa avaliação o tipo de entrevista utilizado será o semiestruturado, dessa forma a entrevista deve possuir um roteiro composto dos tópicos ou perguntas que devem ser endereçados na entrevista, em ordem lógica. O entrevistador tem liberdade para explorar em maior profundidade as respostas fornecidas pelo entrevistado e até mesmo modificar a ordem dos tópicos abordados, porém mantendo o foco nos objetivos da entrevista. As seguintes perguntas deverão constar na avaliação afim de se obter uma avaliação por parte dos usuários a respeito do Storyboard.</p>
+
+| Número | Pergunta                                                                                                                         | Estrutura da Resposta                                                   |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 1      | Qual seu nome?                                                                                                                   | Pergunta aberta                                                         |
+| 2      | Qual sua idade                                                                                                                   | Pergunta aberta                                                         |
+| 3      | Qual seu gênero                                                                                                                  | [ ] Masculino<br/>[ ] Feminino<br/>[ ] Não binário<br/>[ ] Outro, qual? |
+| 4      | Com relação ao primeiro storyboard, a situação ilustrada condiz com a realidade?                                                 | [ ] Sim</br>[ ] Não ⚠️ Caso a resposta seja "Sim", vá para a pergunta 3 |
+| 5      | Qual a sugestão de alteração ou melhoria para o storyboard sugere?                                                               | Pergunta aberta                                                         |
+| 6      | Com relação ao segundo storyboard, a situação ilustrada retrata bem o quanto a busca de informações da Defensoria pelo chat bot? | [ ] Sim</br>[ ] Não ⚠️ Caso a resposta seja "Sim", vá para a pergunta 5 |
+| 7      | Qual sugestão de alteração ou melhoria para o storyboard sugere?                                                                 | Pergunta aberta                                                         |
+
+### 4.4 Relatório das Avaliações e conclusão
+
+<p> &emsp; Após cada entrevista o avaliador deve escrever um pequeno relatório identificando os problemas encontrados, os sugestões de melhoria e outros aspectos importantes.</p>
+
+<p> &emsp; Após a produção de todos os pequenos relatórios, o avaliador deverá escrever uma conclusão da atividade de avaliação, onde será listado todos os problema com suas devidas priorização (qual deve ser resolvido primeiro).</p>
+
+## 5. Conclusão
+
+<p> &emsp; Esse documento visa facilitar a vida do avaliador durante a realização das avaliações. Desse modo, o avaliador está livre para realizar mudanças durante ou previamente a avaliação, mas sempre lembrando de manter a consistência entre os participantes.</p>
+
+## 6. Referências Bibliográficas
+
+- BARBOSA, S.D.J.; SILVA, B.S. Interação Humano--Computador.Editora Campus- ElsevierElsevier, 2010.
+
+## 7. Versionamento
+
+| Data       | Versão | Descrição                    | Autor            |
+| ---------- | ------ | ---------------------------- | ---------------- |
+| 22/04/2021 | 1.0    | Desenvolvimento do Documento | Lucas Boaventura |
+| 22/04/2021 | 1.1    | Revisão do documento | Lorrany Oliveira |
+

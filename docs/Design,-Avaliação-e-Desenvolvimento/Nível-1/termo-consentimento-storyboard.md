@@ -1,0 +1,42 @@
+# Termo de Consentimento - Storyboard
+
+## 1. Introdução
+
+<p> &emsp; Este documento tem por objetivo apresentar o termo de consentimento que estaremos usando no nosso projeto, ele se baseia no termo de consentimento descrito no livro: Interação Humano Computador escrito por Simone Diniz Junqueira Barbosa e Bruno Santana da Silva.</p>
+
+## 2. O que é um termo de Consentimento
+
+<p> &emsp; A participação em uma pesquisa deve ocorrer apenas com o consentimento livre e esclarecido dos participantes. Desse modo, todo participante de qualquer estudo tem o direito de saber o objetivo do estudo, a duração estimada, os procedimentos de coleta de dados, o uso que será feito da informação coletada, os seus direitos de participantes do estudo e quaisquer riscos que estejam envolvidos. Essas informações devem ser comunicadas ao participante previamente, durante o processo de recrutamento, e depois reiteradas no início da atividade através de um termo de consentimento.</p>
+
+<p>&emsp; Ao concordar com o termo de consentimento, o participante atesta que entende as garantias e os ricos do estudo e concorda com sua participação naquelas condições descritas.</p>
+
+<p>&emsp; Visto que foi identificado a necessidade de validar alguns artefatos do nosso projeto através de entrevistas com clientes, foi necessário a realização de um termo de consentimento.</p>
+
+## 3. Termo de Consentimento - Storyboard
+
+<p>&emsp; Nós somos alunos de Engenharia de Software da Universidade de Brasília, e estamos realizando um projeto da disciplina de Interação Humano Computador, com o objetivo de observar a interface do site da Defensoria Pública do Estado de São Paulo.</p>
+
+<p>&emsp; O objetivo da entrevista que você irá participar é avaliar os Storyboards realizados durante a etapa de Prototipação de baixa fidelidade do nosso projeto, que visa melhorar a interface do site da Defensoria Pública do Estado de São Paulo.</p>
+
+<p>&emsp; Os Storyboards descrevem pequenos cenários, ambientes, tarefas e pessoas envolvidas que estão diretamente ou indiretamente relacionadas com o uso do sistema da Defensoria. E será observando esses Storyboards que será realizado a entrevista, através da análise e julgamento de entrevistado. Por conseguinte, nós poderemos avaliar a fidelidade desses cenários.</p>
+
+<p> &emsp; A participação em uma pesquisa deve ocorrer apenas com o consentimento livre e esclarecido dos participantes. Desse modo, todo participante de qualquer estudo tem o direito de saber o objetivo do estudo, a duração estimada, os procedimentos de coleta de dados, o uso que será feito da informação coletada, os seus direitos de participantes do estudo e quaisquer riscos que estejam envolvidos. Essas informações devem ser comunicadas ao participante previamente, durante o processo de recrutamento, e depois reiteradas no início da atividade através de um termo de consentimento.</p>
+
+<p>&emsp; Ao concordar com o termo de consentimento, o participante atesta que entende as garantias e os ricos do estudo e concorda com sua participação naquelas condições descritas.</p>
+
+<p>&emsp; A duração da entrevista não vai passar de 15 minutos.</p>
+
+<p>&emsp; Agradecemos sua análise e atenção, obrigado!</p>
+
+## 4. Referências Bibliográficas
+
+- BARBOSA, S.D.J.; SILVA, B.S. Interação Humano--Computador.Editora Campus- ElsevierElsevier, 2010.
+
+## 5. Versionamento
+
+| Data       | Versão | Descrição                                 | Autor            |
+| ---------- | ------ | ----------------------------------------- | ---------------- |
+| 22/04/2021 | 1.0    | Desenvolvimento do termo de consentimento | Lucas Boaventura |
+| 22/04/2021 | 1.1    | Revisão do documento | Lorrany Oliveira |
+| 22/04/2021 | 1.2    | Correção de Erros | Tiago Samuel Rodrigues |
+
