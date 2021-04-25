@@ -33,7 +33,7 @@
 
 &emsp;O perfil dos participantes da pesquisa deve ser constituído de pessoas que residem no Brasil, que nunca interagiram com o site da Defensoria Pública do estado de São Paulo e que já utilizaram sites de serviços públicos.
 
-## 6. Perguntas a serem respondidas
+## 5. Perguntas a serem respondidas
 
 &emsp;Tendo em vista o escopo da avaliação, as perguntas direcionadas ao usuário terão enfoque em usabilidade, sendo elas:
 
@@ -47,7 +47,7 @@
 - Quais barreiras o usuário encontra para atingir seus objetivos?
 - Ele tem acesso a todas as informações oferecidas pelo sistema?
 
-## 5. Resultados Esperados
+## 6. Resultados Esperados
 
 - Tarefas executadas pelos participantes da avaliação.
 - Número e perfil dos participantes.
@@ -69,8 +69,13 @@
 
 - Sugestões de melhoria na interface.
 
-## Versionamento
+## 7. Conclusão
+
+&emsp; Esse documento foi criado para auxiliar o avaliador durante a realização da avaliação do Protótipo de baixa fidelidade. Mesmo assim, o avaliador segue livre para executar mudanças no roteiro da avaliação de acordo com a sua percepção e necessidade dos entrevistados, lembrando-se sempre de manter um padrão entre cada entrevista.
+
+## 8. Versionamento
 
 |    Data    | Versão |                                    Descrição                                    |               Autor               |
 | :--------: | :----: | :-----------------------------------------------------------------------------: | :-------------------------------: |
 | 22/04/2021 |  1.0   | Desenvolvimento do documento de Planejamento da Avaliação do Protótipo de Papel | Guilherme Fernandes e Ítalo Alves |
+| 23/04/2021 |  2.0   |                  Revisa o documento e cria tópico de conclusão                  |         Lucas Boaventura          |
