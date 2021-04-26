@@ -3,6 +3,12 @@ img[alt="drawing"] {
   object-fit: cover;
 }
 
+.md-typeset__scrollwrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 img[id="imagem-grande"] {
   height: 30rem;
 }
