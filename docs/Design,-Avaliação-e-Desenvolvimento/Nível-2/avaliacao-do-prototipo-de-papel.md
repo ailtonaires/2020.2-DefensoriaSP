@@ -2,26 +2,33 @@
 
 ## 1. Introdução
 
-&emsp;A avaliação do protótipo em papel tem como objetivo verificar a usabilidade e interatividade por meio da observação e análise da interação do usuário com a interface.
+
+A pŕatica de desenvolvimento de protótipos de baixa fidelidade facilita a criação de um design intuitivo e de qualidade, possibilitando também diversas modificações e versionamentos do protótipo conforme o necessário, devido ao baixo custo e ao pequeno período de tempo exigido para sua produção. Embora seja uma prática extremamente eficiente em evidenciar problemas de iterface, são necessárias algumas avaliações metódicas quando se propõe a interação do usuário com o protótipo, já que devem ser testadas características do projeto e não dos conhecimentos e habilidades do usuário testador. 
+
+## 2. Objetivos
+
+A avaliação do protótipo em papel tem como objetivo verificar a usabilidade e interatividade por meio da observação e análise da interação do usuário com a interface.
 Dessa forma, é possível assegurar ao usuário uma interface com boa usabilidade e interatividade. Essa avaliação utilizará como guia o documento de Planejamento da Avaliação do Protótipo de Papel desenvolvido anteriormente.
 
-## 2. Avaliação e Perfil de Usuário
+## 3. Perfil de Usuário
 
-- Objetivo: identificar problemas na interação e na usabilidade da interface do site da Defensoria Pública de São Paulo.
 - Perfil do participante:  
   &emsp;**Nome**: Lucas Silva  
   &emsp;**Idade**: 25  
   &emsp;**Profissão**: Dentista
 
-## 3. Teste Piloto
+## 4. Teste Piloto
 
 [<img src="../../../assets/prototipo/baixa-fidelidade-preview.jpg">](https://drive.google.com/file/d/15x7EpoQLKgq2hXWOLMf7gViE2zeAuVuX/view?usp=sharing)
 
-## 4. Tarefas
+## 5. Tarefas
 
-&emsp;As tarefas que serão avaliadas são: <i>verificar documentos necessários para abrir uma petição, ler material institucional e verificar áreas de atuação.</i>
+As tarefas que serão objeto de avaliação são: 
+- Verificar documentos necessários para abrir uma petição;
+- Realizar leitura de material institucional;
+- Verificar áreas de atuação.
 
-### Tarefa 1: Verificar documentos necessários para abrir uma petição
+### 5.1. Tarefa 1: Verificar documentos necessários para abrir uma petição
 
 #### Fluxo da interação
 
@@ -46,7 +53,7 @@ Dessa forma, é possível assegurar ao usuário uma interface com boa usabilidad
 | Quais barreiras o usuário encontra para atingir seus objetivos?                                            | Em baixar o arquivo em PDF para conseguir ver os documentos que certa área necessita                          |
 | Ele tem acesso a todas as e informações oferecidas pelo sistema?                                           | Sim                                                                                                           |
 
-### Tarefa 2: Abrir chat-bot e ler o material institucional
+### 5.2. Tarefa 2: Abrir chat-bot e ler o material institucional
 
 #### Fluxo da interação
 
@@ -76,7 +83,7 @@ Dessa forma, é possível assegurar ao usuário uma interface com boa usabilidad
 | Quais barreiras o usuário encontra para atingir seus objetivos?                                            | Nenhuma                                                                                           |
 | Ele tem acesso a todas as e informações oferecidas pelo sistema?                                           | Sim                                                                                               |
 
-### Tarefa 3: Verificar áreas de atuação da Defensoria
+### 5.3. Tarefa 3: Verificar áreas de atuação da Defensoria
 
 #### Fluxo da interação
 
@@ -101,14 +108,15 @@ Dessa forma, é possível assegurar ao usuário uma interface com boa usabilidad
 | Quais barreiras o usuário encontra para atingir seus objetivos?                                            | Entender o que cada página possui de informação                                              |
 | Ele tem acesso a todas as e informações oferecidas pelo sistema?                                           | Sim                                                                                          |
 
-## 5. Conclusão
+## 6. Conclusão
 
 &emsp; Os resultados das entrevistas foram muito bons e úteis para a continuação do projeto. Seguindo o teste-piloto foi possível corrigir alguns problemas que o protótipo de papel tinha. Através das entrevistas também foram possíveis observar os erros de design que serão considerados para os próximos protótipos.
 
-## 6. Versionamento
+## 7. Versionamento
 
 |    Data    | Versão |                            Descrição                            |               Autor               |
 | :--------: | :----: | :-------------------------------------------------------------: | :-------------------------------: |
 | 22/04/2021 |  1.0   | Desenvolvimento do documento de Avaliação do Protótipo de Papel | Guilherme Fernandes e Ítalo Alves |
 | 23/04/2021 |  2.0   |      Revisão do documento e adição do tópico de conclusão       |         Lucas Boaventura          |
 | 25/04/2021 |  3.0   |                Adição do tópico de teste piloto                 |            Ítalo Alves            |
+| 27/04/2021 |  3.1   |                Revisão e adição de tópico de objetivos                 |            Brenda e Lorrany            |
