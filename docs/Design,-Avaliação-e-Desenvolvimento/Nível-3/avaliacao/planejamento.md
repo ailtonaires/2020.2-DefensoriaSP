@@ -85,4 +85,5 @@
 |    Data    | Versão |                     Descrição                      |               Autor               |
 | :--------: | :----: | :------------------------------------------------: | :-------------------------------: |
 | 26/04/2021 |  1.0   | Desenvolvimento do documento | Guilherme Fernandes, Ítalo Alves, Lucas Boaventura e Tiago Samuel Rodrigues |
+| 06/05/2021 |  1.1   | Mudança de estrutura | Brenda Santos, Ítalo Alves, Lucas Boaventura e Lorrany Oliveira |
 
