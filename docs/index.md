@@ -33,4 +33,4 @@
 | Data       | Versão | Descrição                    | Autor            |
 | ---------- | ------ | ---------------------------- | ---------------- |
 | 17/02/2021 | 1.0    | Desenvolvimento do Documento | Lucas Boaventura |
-| 06/05/2021 | 2.0    | Revisão do Documento         | Guilherme Fernandes|
+| 06/05/2021 | 1.1    | Revisão do Documento         | Guilherme Fernandes|

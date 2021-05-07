@@ -39,7 +39,7 @@
 
 <p align='justify'> &emsp; Para se coletar avaliações dos usuários, pode se utilizar de testes de usabilidade, ou métodos de análise como entrevistas, observações e questionários.</p>
 
-## 6. Bibliografia
+## 6. Referências Bibliográficas
 
 - SILVA, Rodrigo; MENDONÇA, Jônatas. Um estudo do relacionamento entre técnicas de
   usabilidade e testes automatizados em métodos
