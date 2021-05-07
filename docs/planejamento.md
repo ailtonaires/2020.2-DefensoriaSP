@@ -139,3 +139,4 @@ Exemplo de contribuição feita por mais de um autor:
 | Data       | Versão | Descrição                                    | Autor                                                         |
 | ---------- | ------ | -------------------------------------------- | ------------------------------------------------------------- |
 | 02/03/2021 | 1.0    | Desenvolvimento do documento de planejamento | Tiago Samuel, Guilherme Fernandes, Ítalo Alves, Brenda Santos, Lorrany Oliveira |
+| 06/05/2021 | 2.0    | Revisão do Documento de Planejamento | Guilherme Fernandes |
