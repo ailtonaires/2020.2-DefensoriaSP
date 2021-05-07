@@ -1,78 +1,182 @@
 # Análise de Tarefas
 
-<p align='justify'>&emsp; A análise de tarefas é utilizada para se entender sobre qual é o esforço dos usuários, como e por quê eles o realizam.</p>
+<p align='justify'>&emsp; A análise de tarefas é utilizada em diferentes momentos do desenvolvimento, sendo comumente utilizada para  entender sobre qual é o esforço dos usuários, como e por quê eles realizam determinadas tarefas. Nesse tipo de análise, o esforço do usuário é definido em termos dos objetivos que eles querem ou precisam atingir. As tarefas analisadas podem ser descritas através de casos de uso e cenários e alguns dos métodos mais comuns de análise de tarefas são a Análise Hierárquica de Tarefas (HTA) e o modelo GOMS. </p>
 
 ## Metodologia
 
-<p align='justify'>&emsp; Nesse tipo de análise, o esforço do usuário é definido em termos dos objetivos que eles querem ou precisam atingir. Existem algumas análises de tarefas, e a escolhida para se utilizar no projeto da disciplina foi a Análise Hierárquica de tarefas.</p>
+<p align='justify'>&emsp; O modelo de análise de tarefas escolhido utilizar no projeto da disciplina foi a Análise Hierárquica de Tarefas (HTA), pois assim será possível identificar capacitações   adequadas   para   melhorar a eficiência na realização das atividades selecionadas.</p>
 
-<p align='justify'>&emsp; A Análise Hierárquica foi desenvolvida em 1960 para ajudar a entender as competências e habilidades exibidas em tarefas complexas e não repetitivas. Ajuda também a relacionar o que as pessoas fazem, ou deveriam fazer, porque fazem isso, e quais as consequências caso não seja feito corretamente. É utilizada uma fundamentação na psicologia funcional.</p>
+## Objetivo
+
+<p align='justify'>&emsp; Na primeira Análise Hierárquica de Tarefas (HTA), utilizou-se o método da inspeção para verificar quais as ações do usuário eram necessárias para receber atendimento no site da Defensoria Pública do estado de São Paulo (DPESP). Nesta nova análise, pretende-se verificar se o que foi levantado outrora está em conformidade com as experiências dos usuários.</p>
+
+## Análise Hierárquica de Tarefas (AHT)
+
+<p align='justify'>&emsp; A Análise Hierárquica foi desenvolvida em 1960 para ajudar a entender as competências e habilidades exibidas em tarefas complexas e não repetitivas. Consiste em relacionar o que  as  pessoas  fazem, por que o fazem e quais as conseqüências, caso não façam corretamente, de forma que o ponto de partida desta análise são os objetivos do usuário. É utilizada uma fundamentação na psicologia funcional. Esta análise visa identificar quais tarefas devem ser realizadas para atingir determinado objetivo. </p>
 
 ## Análise sobre o atendimento
 
-<div align="center">
-  <img src="../../assets/analise-de-requisitos/atendimento.png" />
-</div>
+<br>
+<p align='center'>
+    <img src="../assets/analise-de-requisitos/atendimento-v2.png">
+    <figcaption align='center'>
+        <b>Figura 1: Diagrama de Análise Hierárquica da tarefa de "Receber atendimento". </b>
+        <br> 
+          </figcaption>
+</p>
 
-| Objetivos/operações                               |                                                                                                                                        Problemas e recomendações                                                                                                                                        |
-| :------------------------------------------------ | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 1. Receber atendimento 1 > 1.1                    |                                                                              **plano:** Acessar a opção de atendimento. **problema:** A opção de atendimento está com uma fonte e tamanho ruins e não parece ser clicável.                                                                              |
-| 1.1 Verificar opções de atendimento e agendamento |                                                          **plano:** Verificar as opções de atendimento. **problema:** Página mostra as opções, mas tem um texto superior que está muito grande e as opções são imagens que fingem ser botões.                                                           |
-| 2. Acessar nossos serviços 2 > 2.1                |                                                            **plano:** Acessar a opção de atendimento. **problema:** Página mostra as opções, mas tem um texto superior que está muito extenso e a opção é uma imagem que finge ser um botão.                                                            |
-| 2.1 Ver serviços da Defensoria                    |                                                            **plano:** Verificar quais são os serviços. **problema:** Página colorida e com fontes ruins sem explorar o tamanho das fontes pra informar as partes mais importantes da página.                                                            |
-| 3. Verificar documentos necessários 3 > 3.1 > 3.2 |                                                         **plano:** Verificar os documentos necessários. **problema:** Página mostra as opções, mas tem um texto superior que está muito extenso e a opção é uma imagem que finge ser um botão.                                                          |
-| 3.1 Buscar por ações da área de família ou civil  |                                                                     **plano:** Escolher a área da ação. **problema:** Não parece claras as opções de áreas, a busca é um retângulo e o botão de pesquisar não parece ser clicável.                                                                      |
-| 3.2 Baixar pdf                                    |                                                                **plano:** Baixar pdf. **problema:** Díficil leitura das opções que podem baixar, utiliza ícones antigos e mostra tamanho do arquivo que não é interessante pro usuário.                                                                 |
-| 4. Acessar panfletos informativos 4 > 4.1         |                                                         **plano:** Verificar os panfletos informativos. **problema:** Página mostra as opções, mas tem um texto superior que está muito extenso e a opção é uma imagem que finge ser um botão.                                                          |
-| 4.1 Escolher panfleto                             |                                        **plano:** Escolher o panfleto. **problema:** Utiliza imagens de diversas cores como botões e possui um texto ruim de ler dependendo da quantidade de caracteres, além de uma imagem perdida na parte debaixo da página.                                         |
-| 5. Ver dúvidas frequentes 5 > 5.1                 |                                                           **plano:** Verificar as dúvidas frequentes. **problema:** Página mostra as opções, mas tem um texto superior que está muito extenso e a opção é uma imagem que finge ser um botão.                                                            |
-| 5.1 Ler dúvidas frequentes                        | **plano:** Ler as dúvidas frequentes. **problema:** Página mostra as dúvidas, mas não da pra saber onde começa e onde termina, existem alguns links que estão mal colocados na tela, não utiliza o tamanho da fonte pra mostrar a parte mais importante da tela, não é intuitiva a leitura das dúvidas. |
-| 6. Acessar fale conosco 6 > 6.1                   |                                                         **plano:** Ver como pode falar com a defensoria. **problema:** Página mostra as opções, mas tem um texto superior que está muito extenso e a opção é uma imagem que finge ser um botão.                                                         |
-| 6. Enviar formulário de contato                   |                     **plano:** Preencher formulário de contato e enviar. **problema:** cada input é de um tamanho, a tela do formulário está alinhada a esquerda da tela e tem um scroll pouco intuitivo já que sobrou muito espaço em branco no centro e no lado direito da tela.                      |
+| Objetivos/operações                               | Problemas e recomendações                                                                                                                                                                                                                                                                                    |
+| :------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. Receber atendimento 1 > 1.1                    | **plano:** Acessar a opção de atendimento.<br> **problema:** A opção de atendimento está com uma fonte e tamanho ruins e não parece ser clicável.                                                                                                                                                            |
+| 1.1 Verificar opções de atendimento e agendamento | **plano:** Verificar as opções de atendimento. <br> **problema:** Página mostra as opções, mas tem um texto superior que está muito grande e as opções são imagens que fingem ser botões.                                                                                                                    |
+| 2. Acessar nossos serviços 2 > 2.1                | **plano:** Acessar a opção de atendimento. <br> **problema:** Página mostra as opções, mas tem um texto superior que está muito extenso e a opção é uma imagem que finge ser um botão.                                                                                                                       |
+| 2.1 Ver serviços da Defensoria                    | **plano:** Verificar quais são os serviços. <br> **problema:** Página colorida e com fontes ruins sem explorar o tamanho das fontes pra informar as partes mais importantes da página.                                                                                                                       |
+| 3. Verificar documentos necessários 3 > 3.1 > 3.2 | **plano:** Verificar os documentos necessários. <br> **problema:** Página mostra as opções, mas tem um texto superior que está muito extenso e a opção é uma imagem que finge ser um botão.                                                                                                                  |
+| 3.1 Buscar por ações da área de família ou civil  | **plano:** Escolher a área da ação. <br> **problema:** Não parece claras as opções de áreas, a busca é um retângulo e o botão de pesquisar não parece ser clicável.                                                                                                                                          |
+| 3.2 Baixar PDF                                    | **plano:** Baixar PDF. <br> **problema:** Díficil leitura das opções que podem baixar, utiliza ícones antigos e mostra tamanho do arquivo que não é interessante pro usuário.                                                                                                                                |
+| 4. Acessar panfletos informativos 4 > 4.1         | **plano:** Verificar os panfletos informativos. <br> **problema:** Página mostra as opções, mas tem um texto superior que está muito extenso e a opção é uma imagem que finge ser um botão.                                                                                                                  |
+| 4.1 Escolher panfleto                             | **plano:** Escolher o panfleto. <br> **problema:** Utiliza imagens de diversas cores como botões e possui um texto ruim de ler dependendo da quantidade de caracteres, além de uma imagem perdida na parte debaixo da página.                                                                                |
+| 5. Ver dúvidas frequentes 5 > 5.1                 | **plano:** Verificar as dúvidas frequentes. <br> **problema:** Página mostra as opções, mas tem um texto superior que está muito extenso e a opção é uma imagem que finge ser um botão.                                                                                                                      |
+| 5.1 Ler dúvidas frequentes                        | **plano:** Ler as dúvidas frequentes. <br> **problema:** Página mostra as dúvidas, mas não da pra saber onde começa e onde termina, existem alguns links que estão mal colocados na tela, não utiliza o tamanho da fonte pra mostrar a parte mais importante da tela, não é intuitiva a leitura das dúvidas. |
+| 6. Acessar fale conosco 6 > 6.1                   | **plano:** Ver como pode falar com a defensoria. <br> **problema:** Página mostra as opções, mas tem um texto superior que está muito extenso e a opção é uma imagem que finge ser um botão.                                                                                                                 |
+| 6. Enviar formulário de contato                   | **plano:** Preencher formulário de contato e enviar. <br> **problema:** cada input é de um tamanho, a tela do formulário está alinhada a esquerda da tela e tem um scroll pouco intuitivo já que sobrou muito espaço em branco no centro e no lado direito da tela.                                          |
+
+<figcaption align='center'>
+    <b>Tabela 1: Representação da Análise Hierárquica da tarefa "Receber atendimento" em tabela.</b>
+    <br> 
+    <br>
+</figcaption>
+
+**0.** Receber atendimento
+<br>&emsp;&emsp;**1.** Acesse a página de atendimento.
+<br>&emsp;&emsp;&emsp;**1.1** Visualize as opções de atendimento e agendamento.
+<br>&emsp;&emsp;**2.** Acesse nossos serviços.
+<br>&emsp;&emsp;&emsp;**2.1** Visualize os serviços da Defensoria.
+<br>&emsp;&emsp;**3.** Verificar documentos necessários.
+<br>&emsp;&emsp;&emsp; **3.1** Busque por ações da área de familia e cívil.
+<br>&emsp;&emsp;&emsp;&emsp; **3.1.1** Baixe o PDF.
+<br>&emsp;&emsp;**4.** Acessar panfletos.
+<br>&emsp;&emsp;&emsp; **4.1** Escolha o panfleto.
+<br>&emsp;&emsp;**5.** Visualizar dúvidas frequentes.
+<br>&emsp;&emsp;&emsp; **5.1** Leia as dúvidas frequentes.
+<br>&emsp;&emsp;**6.** Acessar o fale conosco.
+<br>&emsp;&emsp;&emsp; **6.1** Envie um formulário.
+
+<figcaption align='center'>
+    <b>Representação textual da Análise Hierárquica da tarefa "Receber atendimento".</b>
+    <br> 
+    <br>
+</figcaption>
 
 ## Análise sobre o atendimento virtual com chat-bot
 
-<div align="center">
-  <img id="imagem-grande" src="../../assets/analise-de-requisitos/atendimento-virtual.png" />
-</div>
+<br>
+<p align='center'>
+    <img src="../assets/analise-de-requisitos/atendimento-virtual.png">
+    <figcaption align='center'>
+        <b>Figura 2: Diagrama de Análise Hierárquica da tarefa de "Abrir o atendimento virtual". </b>
+        <br> 
+          </figcaption>
+</p>
 
-| Objetivos/operações                             |                                                                                                                                     Problemas e recomendações                                                                                                                                      |
-| :---------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 0. Abrir o atendimento virtual                  |                                                                                                  **plano:** Abrir o chat-bot na página inicial para receber o atendimento virtual da Defensoria.                                                                                                   |
-| 1.1 Inserir o nome                              |                                                                                                               **input:** Nome que o usuário gostaria de ser chamado durante o chat.                                                                                                                |
-| 1.2 Saber mais sobre os temas descritos? 1 / 2  |                                                                                  **input:** Botões com resposta SIM ou NÃO. **plano:** Os botões respondem a pergunta feita e levam a outras funções disponíveis.                                                                                  |
-| 1.4 Responder NÃO                               |                                                                              **plano:** As outras funcionalidades disponíveis são puladas e o usuário vai direto ao passo de receber atendimento na área selecionada.                                                                              |
-| 1.3 Responder SIM                               |                                                                                                                  **plano:** As outras funcionalidades disponíveis são mostradas.                                                                                                                   |
-| 1.3.1 Ler Material Institucional                | **plano:** Uma mensagem com as informações sobre o material institucional com um link que levam a uma nova janela. **problema:** Ao abrir uma nova janela, uma página com bastante informação extra e layout totalmente distinto da janela atual é aberta, podendo causar confusão para o usuário. |
-| 1.3.2 Continuar com o atendimento? 1 / 2        |                                                                     **input:** Botões com resposta SIM ou NÃO. **plano:** Os botões respondem a pergunta e podem encerrar o chat ou receber o atendimento na área selecionada.                                                                     |
-| 1.3.3 Responder NÃO                             |                                                                                                                                   **plano:** O chat é encerrado.                                                                                                                                   |
-| 1.3.4 Responder SIM                             |                                                                                                                  **plano:** O usuário é direcionado para receber o antendimento.                                                                                                                   |
-| 1.3.4.1 Receber atendimento na área selecionada |                                           **input:** Resposta sobre as perguntas de acordo com a necessidade do usuário, elas podem ser "SIM" ou "NÃO". **plano:** As respostas guiam o usuário até um atendente real para que seja feito o agendamento.                                           |
+| Objetivos/operações                             |                                                                                                                                       Problemas e recomendações                                                                                                                                        |
+| :---------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 0. Abrir o atendimento virtual                  |                                                                                                    **plano:** Abrir o chat-bot na página inicial para receber o atendimento virtual da Defensoria.                                                                                                     |
+| 1.1 Inserir o nome                              |                                                                                                                 **input:** Nome que o usuário gostaria de ser chamado durante o chat.                                                                                                                  |
+| 1.2 Saber mais sobre os temas descritos? 1 / 2  |                                                                                 **input:** Botões com resposta SIM ou NÃO. <br> **plano:** Os botões respondem a pergunta feita e levam a outras funções disponíveis.                                                                                  |
+| 1.4 Responder NÃO                               |                                                                                **plano:** As outras funcionalidades disponíveis são puladas e o usuário vai direto ao passo de receber atendimento na área selecionada.                                                                                |
+| 1.3 Responder SIM                               |                                                                                                                    **plano:** As outras funcionalidades disponíveis são mostradas.                                                                                                                     |
+| 1.3.1 Ler Material Institucional                | **plano:** Uma mensagem com as informações sobre o material institucional com um link que levam a uma nova janela.<br> **problema:** Ao abrir uma nova janela, uma página com bastante informação extra e layout totalmente distinto da janela atual é aberta, podendo causar confusão para o usuário. |
+| 1.3.2 Continuar com o atendimento? 1 / 2        |                                                                     **input:** Botões com resposta SIM ou NÃO.<br> **plano:** Os botões respondem a pergunta e podem encerrar o chat ou receber o atendimento na área selecionada.                                                                     |
+| 1.3.3 Responder NÃO                             |                                                                                                                                     **plano:** O chat é encerrado.                                                                                                                                     |
+| 1.3.3.1 Encerrar o chat                         |                                              **plano:** O usuário finaliza o atendimento e encerra o chat-bot. <br> **problema:** Não é apresentada ao usuário a possibilidade de retornar à página inicial, restringindo seu fluxo de navegação no site.                                              |
+| 1.3.4 Responder SIM                             |                                                                                                                     **plano:** O usuário é direcionado para receber o atendimento.                                                                                                                     |
+| 1.3.4.1 Receber atendimento na área selecionada |                                             **input:** Resposta sobre as perguntas de acordo com a necessidade do usuário, elas podem ser "SIM" ou "NÃO". **plano:** As respostas guiam o usuário até um atendente real para que seja feito o agendamento.                                             |
+
+<figcaption align='center'>
+    <b>Tabela 2: Representação da Análise Hierárquica da tarefa "Abrir o atendimento virtual" em tabela.</b>
+    <br> 
+    <br>
+</figcaption>
+
+**0.** Abrir atendimento virtual
+<br>&emsp;&emsp;**1.1** Insira seu nome
+<br>&emsp;&emsp;&emsp;**1.2** Deseja saber mais sobre os temas escritos?
+<br>&emsp;&emsp;&emsp;&emsp;**1.3** Sim, desejo saber mais.
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;**1.3.1** Leia o material institucional
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;**1.3.2** Deseja continuar com o atendimento?
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;**1.3.3** Não, desejo finalizar o atendimento.
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**1.3.3.1** Chat é finalizado.
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;**1.3.4** Sim, desejo continuar com o atendimento.
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**1.3.4.1** O usuário recebe atendimento na área selecionada.
+<br>&emsp;&emsp;**1.4** Não, não desejo saber mais.
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**1.3.4.1** Chat é finalizado.
+
+<figcaption align='center'>
+    <b>Representação textual da Análise Hierárquica da tarefa "Abrir o atendimento virtual".</b>
+    <br> 
+    <br>
+</figcaption>
 
 ## Análise sobre o institucional
 
-<div align="center">
-  <img src="../../assets/analise-de-requisitos/institucional.png" />
-</div>
+<br>
+<p align='center'>
+    <img src="../assets/analise-de-requisitos/institucional.png">
+    <figcaption align='center'>
+        <b>Figura 3: Diagrama de Análise Hierárquica da tarefa de "Visitar Institucional". </b>
+        <br> 
+          </figcaption>
+</p>
 
-| Objetivos/operações                       |                                                                                                                                                                       Problemas e recomendações                                                                                                                                                                        |
-| :---------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 1. Acessar 'Quem somos' 1 > 1.2           |                                                      **plano:** Ver as opções ao clicar nessa opção. **problema:** A opção de atendimento está com uma fonte e tamanho ruins e não parece ser clicável, ao passar a mouse por cima aparece um quadrado colorido com algumas opções que não são bonitas de se ver.                                                      |
-| 1.2 Ver informações                       |                                   **plano:** Ver as informações sobre o que é a Defensoria. **problema:** A tela possui um título e um texto desalinhado e que ocupa uma grande largura da tela o que torna a leitura meno intuitiva, além de não explorar tamanhos de fontes e cores no texto pra evidenciar os temas e os botões.                                    |
-| 2. Verificar áreas de atuação 2 > 2.1     |                                                                                             **plano:** Clicar no botão para ver as áres de atuação da Defensoria. **problema:** A tela possui muito texto ocupando uma grande largura da tela com uma fonte muito pequena.                                                                                             |
-| 2.1 Ver as áreas de atuação               |                                                                                         **plano:** Ver as áres de atuação da Defensoria. **problema:** Os links de texto estão na cor verde e não chama muito a atenção, e ao entrar na tela não dá vontade de ler os tópicos.                                                                                         |
-| 3. Acessar saiba mais 3 > 3.1             |                                                                                  **plano:** Acessar a tela de Saiba mais. **problema:** O retângulo que aparece na tela é pequeno e colorido com um amarelo apagado e ao passar o mouse em cima a opção fica maior o que é diferente.                                                                                  |
-| 3.1 Ver mais informações                  |                                                                                        **plano:** Ver mais informações na tela. **problema:** A tela possui um título com um fundo colorido e mal alinhado em relação ao texto, e todas as letras do texto tem o mesmo tamanho.                                                                                        |
-| 4. Verificar defensores 4 > 4.1           |                                                                                  **plano:** Acessar a tela de defensores. **problema:** O retângulo que aparece na tela é pequeno e colorido com um amarelo apagado e ao passar o mouse em cima a opção fica maior o que é diferente.                                                                                  |
-| 4.1 Ver defensores                        |                                                 **plano:** Ver os defensores. **problema:** Aparece uma tabela que não ocupa todo o comprimeto da tela e possui um scroll escondido e cada linha da tabela é muito pequena e colada no texto, além de uma barra de busca sem estilo algum e utilizando ícones antigos.                                                 |
-| 5. Acessar órgãos 5 > 5.1                 |                                                                                         **plano:** Acessar a tela de listagem de órgãos. **problema:** O retângulo que aparece na tela some muito fácil e é difícil clicar em algum item sem sasir do retângulo que é pequeno.                                                                                         |
-| 5.1 Ver órgãos                            |                                      **plano:** Ver os órgãos listados. **problema:** Existe uma imagem mostrando um fluxo de hierarquia dos órgãos que está mal alinhada na tela, a lista de órgãos é uma tabela com as opções verdes e mal colocadas na tela, parece que estão jogadas e tem umas com a fonte menor que outras.                                      |
-| 6. Acessar núcleos especializados 6 > 6.1 |                                                                                             **plano:** Acessar a tela de listagem de núcleos especializados. **problema:** O retângulo que aparece na tela possui umas bordas verdes escuro que não combinam com o fundo.                                                                                              |
-| 6.1 Ver informações dos núcleos           | **plano:** Ver a tela de listagem de núcleos especializados. **problema:** Existe um texto alinhado a esquerdo e muito extenso ocupando quase toda a largura da tela, e abaixo possui a lista de núcleos que utilizam imagens de baixa resolução e um texto em verde que é clicável, e possui uma imagem no footer na página que não existe nas outras telas do fluxo. |
+| Objetivos/operações                       |                                                                                                                                                                          Problemas e recomendações                                                                                                                                                                          |
+| :---------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 1. Acessar 'Quem somos' 1 > 1.2           |                                                        **plano:** Ver as opções ao clicar nessa opção. **problema:** A opção de atendimento está com uma fonte e tamanho ruins e não parece ser clicável, ao passar a mouse por cima aparece um quadrado colorido com algumas opções que não são bonitas de se ver.                                                         |
+| 1.2 Ver informações                       |                                   **plano:** Ver as informações sobre o que é a Defensoria. <br> **problema:** A tela possui um título e um texto desalinhado e que ocupa uma grande largura da tela o que torna a leitura meno intuitiva, além de não explorar tamanhos de fontes e cores no texto pra evidenciar os temas e os botões.                                    |
+| 2. Verificar áreas de atuação 2 > 2.1     |                                                                                               **plano:** Clicar no botão para ver as áres de atuação da Defensoria. **problema:** A tela possui muito texto ocupando uma grande largura da tela com uma fonte muito pequena.                                                                                                |
+| 2.1 Ver as áreas de atuação               |                                                                                         **plano:** Ver as áres de atuação da Defensoria. <br> **problema:** Os links de texto estão na cor verde e não chama muito a atenção, e ao entrar na tela não dá vontade de ler os tópicos.                                                                                         |
+| 3. Acessar saiba mais 3 > 3.1             |                                                                                  **plano:** Acessar a tela de Saiba mais. <br> **problema:** O retângulo que aparece na tela é pequeno e colorido com um amarelo apagado e ao passar o mouse em cima a opção fica maior o que é diferente.                                                                                  |
+| 3.1 Ver mais informações                  |                                                                                          **plano:** Ver mais informações na tela. **problema:** A tela possui um título com um fundo colorido e mal alinhado em relação ao texto, e todas as letras do texto tem o mesmo tamanho.                                                                                           |
+| 4. Verificar defensores 4 > 4.1           |                                                                                  **plano:** Acessar a tela de defensores. <br> **problema:** O retângulo que aparece na tela é pequeno e colorido com um amarelo apagado e ao passar o mouse em cima a opção fica maior o que é diferente.                                                                                  |
+| 4.1 Ver defensores                        |                                                 **plano:** Ver os defensores. <br> **problema:** Aparece uma tabela que não ocupa todo o comprimeto da tela e possui um scroll escondido e cada linha da tabela é muito pequena e colada no texto, além de uma barra de busca sem estilo algum e utilizando ícones antigos.                                                 |
+| 5. Acessar órgãos 5 > 5.1                 |                                                                                         **plano:** Acessar a tela de listagem de órgãos. <br> **problema:** O retângulo que aparece na tela some muito fácil e é difícil clicar em algum item sem sasir do retângulo que é pequeno.                                                                                         |
+| 5.1 Ver órgãos                            |                                      **plano:** Ver os órgãos listados.<br> **problema:** Existe uma imagem mostrando um fluxo de hierarquia dos órgãos que está mal alinhada na tela, a lista de órgãos é uma tabela com as opções verdes e mal colocadas na tela, parece que estão jogadas e tem umas com a fonte menor que outras.                                       |
+| 6. Acessar núcleos especializados 6 > 6.1 |                                                                                             **plano:** Acessar a tela de listagem de núcleos especializados. <br> **problema:** O retângulo que aparece na tela possui umas bordas verdes escuro que não combinam com o fundo.                                                                                              |
+| 6.1 Ver informações dos núcleos           | **plano:** Ver a tela de listagem de núcleos especializados. <br> **problema:** Existe um texto alinhado a esquerdo e muito extenso ocupando quase toda a largura da tela, e abaixo possui a lista de núcleos que utilizam imagens de baixa resolução e um texto em verde que é clicável, e possui uma imagem no footer na página que não existe nas outras telas do fluxo. |
 
-## Referências
+<figcaption align='center'>
+    <b>Tabela 3: Representação da Análise Hierárquica da tarefa "Visitar Institucional em tabela.</b>
+    <br> 
+    <br>
+</figcaption>
+
+**0.** Visitar Institucional
+<br>&emsp;&emsp;**1.** Acessar "Quem somos".
+<br>&emsp;&emsp;&emsp;**1.1** Veja as informações.
+<br>&emsp;&emsp;**2.** Verificar as áreas de atuação.
+<br>&emsp;&emsp;&emsp;**2.1** Visualizar as áreas de atuação.
+<br>&emsp;&emsp;**3.** Acessar "Saiba mais".
+<br>&emsp;&emsp;&emsp;**3.1** Veja mais informações sobre a Defensoria.
+<br>&emsp;&emsp;**4.** Verificar defensores.
+<br>&emsp;&emsp;&emsp;**4.1\* Visualize os defensores.
+<br>&emsp;&emsp;**5.** Acessar orgãos.
+<br>&emsp;&emsp;&emsp;**5.1** Visualize os orgãos.
+<br>&emsp;&emsp;**6.** Acessar núcleos especializados.
+<br>&emsp;&emsp;&emsp;**6.1** Visualize informações dos núcleos especializados.
+
+<figcaption align='center'>
+    <b>Representação textual da Análise Hierárquica da tarefa "Visitar Institucional".</b>
+    <br> 
+</figcaption>
+
+## Conclusão
+
+<p align='justify'>&emsp; Com base nas entrevistas, foi possível constatar que os entrevistados tinham problemas em comum na utilização do site, principalmente relacionadas a usabilidade e design. Foi possível, desta forma, validar as análises anteriores e melhorar alguns elementos apresentados anteriormente, além de apresentar representações diferentes do Análise Hierárquica das tarefas.</p>
+
+## Referências Bibliográficas
 
 - SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a . Edição, Editora Campus, 2010
+
 
 ## Versionamento
 
@@ -80,3 +184,4 @@
 | :--------: | :----: | :-----------------------------------------: | :----------------------------: |
 | 16/03/2021 |  0.1   | Criação da estrutura principal do documento | Lucas Boaventura e Ítalo Alves |
 | 18/03/2021 |  1.0   |        Desenvolvimento do documento         | Lucas Boaventura e Ítalo Alves |
+| 07/05/2021 | 2.0    | Revisão do documento | Guilherme Fernandes  |
