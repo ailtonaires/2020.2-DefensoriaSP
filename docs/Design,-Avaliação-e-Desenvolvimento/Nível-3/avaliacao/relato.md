@@ -16,7 +16,7 @@ No documento do planejamento da avaliação do protótipo de alta fidelidade, ex
 - **Qual seu nome?**<br> Vinicius Alves  
 - **Qual sua idade?**<br> 25
 - **Qual seu nível de formação acadêmica?**<br> Nível superior completo
-- **Você já utilizou o site da Defensoria?**<br>[ ] Sim </br> [ x ] Não
+- **Você já utilizou o site da Defensoria?**<br>[ ] Sim </br> [x] Não
 - **Se sim, qual foi o propósito?**<br>-----
 
 ### 2.2. Perguntas Relacionadas ao Atendimento
@@ -27,8 +27,8 @@ No documento do planejamento da avaliação do protótipo de alta fidelidade, ex
 - **Como você acessa aos planfletos informativos?**<br>O usuário acessa o serviço de atendimento localizado no final da página e clica em conheça nossas cartilhas após observar todas as opções disponíveis
 - **Como você acessa às dúvidas frequentes?**<br> O usuário observa toda a página inicial até se deparar com a opção FAQ no menu de serviços localizado no footer
 - **Como você entra em contato com a Defensoria?**<br>O usuário utiliza algum dos meios de contato disponibilizados no footer, foi localizado ao tentar realizar as tarefas anteriores
-- **Você já utilizou o atendimento virtual de chatbot da Defensoria Pública?**<br>[ ] Sim </br> [ x ] Não</br> 
-- **Você conseguiu ler o material institucional através do chatbot?**<br>[ ] Sim<br>[ x ] Não
+- **Você já utilizou o atendimento virtual de chatbot da Defensoria Pública?**<br>[ ] Sim </br> [x] Não</br> 
+- **Você conseguiu ler o material institucional através do chatbot?**<br>[ ] Sim<br>[x] Não
 
 ### 2.3. Perguntas Relacionadas à Informações
 
@@ -38,7 +38,7 @@ No documento do planejamento da avaliação do protótipo de alta fidelidade, ex
 - **Como você verifica os defensores da Defensoria?**<br> Não foram incluidos no prototipo
 - **Como você verifica os órgãos da Defensoria?**<br> Não foram incluidos no prototipo
 - **Como você acessa à seção "Núcleo Especializado"?**<br> O usuário observa toda a página inicial do site até identificar a opção de núcleos especializados disponibilizada no header da página
-- **Você encontrou alguma dificuldade ou problema ao utilizá-lo?**<br>[ ] Sim </br> [ x ] Não </br> 
+- **Você encontrou alguma dificuldade ou problema ao utilizá-lo?**<br>[ ] Sim </br> [x] Não </br> 
 - **Quais as dificuldades/problemas encontrados?**<br> ---------
 - **O que você sugere para solucionar esses problemas ou melhorar a experiência?**<br> Nada, pareceu uma experiência satisfatória
 -**Você sentiu falta de algo ao utilizar o protótipo?**<br> Não
