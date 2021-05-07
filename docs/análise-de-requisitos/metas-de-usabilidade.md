@@ -1,5 +1,5 @@
 # Metas de Usabilidade
-<p align='justify'> &emsp; Tradicionalmente, as <strong>metas de usabilidade</strong> se preocupam com um conjunto de critérios de usabilidade específicos, por exemplo, se é esteticamente agradável. A usabilidade é fundamental para a qualidade da experiênica do usuário.</p>
+<p align='justify'> &emsp; Tradicionalmente, as <strong>metas de usabilidade</strong> se preocupam com um conjunto de critérios de usabilidade específicos, por exemplo, se a interface é esteticamente agradável. A usabilidade é fundamental para a qualidade da experiênica do usuário.</p>
 
 ## Metodologia
 <p align='justify'> &emsp; A Interação Humano Computador (IHC) abordou em primeiro lugar a usabilidade (conhecida como engenharia de usabilidade). A usabilidade visa assegurar que produtos interativos sejam fáceis de aprender a usar, eficazes e agradáveis pro usuário. Isso implica otimizar as interações estabelecidas pelas pessoas com produtos interativos, de modo a permitir que realizem suas atividades no trabalho, na escola e no cotidiano.</p>
@@ -18,9 +18,9 @@
 
 <p align='justify'> &emsp; Por conseguinte, só perguntar "O sistema é eficaz?" não vai ser muito útil. É necessário que se pergunte de forma mais detalhada, por exemplo:</p>
 
-- **Pergunta:** "Quanto tempo o usuário levará para descobrir como usar as funções mais básicas do novo site; quanto ele pode aproveitar da sua experiência em outros sites semelhantes; e quanto tempo levaria para um usuário aprender todas as funções?"
+- **Pergunta:** "Quanto tempo o usuário levará para descobrir como usar as funções mais básicas do novo site? Quanto ele pode aproveitar da sua experiência em outros sites semelhantes? e quanto tempo levaria para um usuário aprender todas as funções?"
 
-<p align='justify'> &emsp; Perguntas como essa acima vão fornecer mais informações ao desenvolvedor. Abaixo vamos utilizar perguntas para idealizar as metas dentro do escopo do projeto de IHC sobre o site da <a href="https://www.defensoria.sp.def.br/dpesp/">Defensoria Pública de São Paulo</a></p>
+<p align='justify'> &emsp; Perguntas como essas acima vão fornecer mais informações ao desenvolvedor. Abaixo, vamos utilizar perguntas para idealizar as metas dentro do escopo do projeto de IHC sobre o site da <a href="https://www.defensoria.sp.def.br/dpesp/">Defensoria Pública de São Paulo</a></p>
 
 ## Metas idealizadas
 
@@ -37,7 +37,7 @@ que se espera dele.</p>
 <p align='justify'> &emsp; A eficiência refere-se à maneira como um produto auxilia os usuários na realização de
 suas tarefas.</p>
 
-- **Pergunta:** Os usuários vão conseguir manter um alto nível de capacidade em acessar as principais funcionalidades do site da Defensoria de São Paulo, depois de terem feito isso a primeira vez?
+- **Pergunta:** Os usuários vão conseguir manter um alto nível de capacidade em acessar as principais funcionalidades do site da Defensoria de São Paulo, depois de terem feito isso pela primeira vez?
 - **Meta aplicada ao projeto:** As opções no menu que deverá estar em todas as telas deverá ser clara e com um bom contraste de cor com o fundo, além de ter uma breve explicação sobre cada opção ao clicar nelas. 
 
 ### Segurança
@@ -93,3 +93,4 @@ de modo que os usuários possam fazer aquilo que precisam ou desejam.</p>
 | 23/03/2021 |  0.1   |      Cria estrutura do documento      | Lucas Boaventura |
 | 23/03/2021 |  1.0   |      Desenvolve documentos de metas de usabilidade      | Lucas Boaventura |
 | 24/03/2021 |  1.1   |      Revisão do documento          | Lorrany Oliveira |
+| 07/05/2021 | 1.2 | Revisão do documento | Guilherme Fernandes |
