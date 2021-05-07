@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-No documento do planejamento da avaliação do protótipo de alta fidelidade, existe um conjunto de perguntas o qual este documento tem como objetivo demostrar as respostas levantadas. A avaliação foi feita conforme especificado no documento de planejamento da avaliação, o qual pode ser acessado clicando <a class="link" href="planejamento">aqui</a>.
+No documento do planejamento da avaliação do protótipo de alta fidelidade, existe um conjunto de perguntas o qual este documento tem como objetivo demostrar as respostas levantadas. A avaliação foi feita conforme especificado no documento de planejamento da avaliação.</a>.
 </p>
 
 ## 2. Perguntas a serem respondidas
