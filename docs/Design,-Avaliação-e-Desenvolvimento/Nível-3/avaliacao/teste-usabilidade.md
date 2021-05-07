@@ -41,11 +41,11 @@ As tarefas utilizadas nas sessões foram as mesmas para todos os participantes e
 |Índice|Pergunta|Estrutura da Resposta|
 |------|--------|--------|
 |6|Como você verifica os locais de atendimento?|Acessando a opção de atendimento no final da página|
-|7|Como você acessa os serviços da Defensoria?|Observando as opções de serviços disponibilizadas ao final da página e selecionando a desejada|
-|8|Como você verifica os documentos necessários?|Acessando o serviço de atendimento no final da página e clicando em documentos necessários na nova página|
-|9|Como você acessa aos planfletos informativos?|Acessando o serviço de atendimento no final da página e clicando em conheça nossas cartilhas|
-|10|Como você acessa às dúvidas frequentes?|Acessando a opção FAQ disponibilizada nas opções de serviço no final da página|
-|11|Como você entra em contato com a Defensoria?|Utilizando algum dos meios diponibilizados no final da pagina, como as redes sociais ou telefone|
+|7|Como você acessa os serviços da Defensoria?| O usuário observa todo o site de cima a baixo e encontra o menu de serviços no footer da página |
+|8|Como você verifica os documentos necessários?|O usuário oberva toda a página, encontra a opção de atendimento no menu de serviços e ao clicar em atendimento se depara com a opção de documentos necesários|
+|9|Como você acessa aos planfletos informativos?| O usuário acessa o serviço de atendimento localizado no final da página e clica em conheça nossas cartilhas após observar todas as opções disponíveis|
+|10|Como você acessa às dúvidas frequentes?| O usuário observa toda a página inicial até se deparar com a opção FAQ no menu de serviços localizado no footer|
+|11|Como você entra em contato com a Defensoria?|O usuário utiliza algum dos meios de contato disponibilizados no footer, foi localizado ao tentar realizar as tarefas anteriores |
 |12|Você já utilizou o atendimento virtual de chatbot da Defensoria Pública?|[  ] Sim </br> [ x ] Não</br> ⚠️ Caso a resposta seja "Não", pule para a pergunta 14|
 |13|Você conseguiu ler o material institucional através do chatbot?|[ ] Sim [ ] Não
 
@@ -53,15 +53,15 @@ As tarefas utilizadas nas sessões foram as mesmas para todos os participantes e
 
 |Índice|Pergunta|Estrutura da Resposta|
 |------|--------|--------|
-|14|Como você acessa à seção "Quem Somos" do protótipo?| Acessando o institucional |
-|15|Como você acessa às áreas de atuação da Defensoria?|Acessando o institucional|
+|14|Como você acessa à seção "Quem Somos" do protótipo?| O usuário acessa a área de institucional e se depara com a resposta |
+|15|Como você acessa às áreas de atuação da Defensoria?| O usuário acessa a área de institucional e se depara com a resposta |
 |16|Como você acessa à seção "Saiba Mais" do protótipo?| A seção não foi desenvolvida|
 |17|Como você verifica os defensores da Defensoria?| Não foram incluidos no prototipo |
-|18|Como você verifica os órgãos da Defensoria?	|Acessando a área de núcleos especializados|
-|19|Como você acessa à seção "Núcleo Especializado"?|Clicando em nucleos especializados no header da página|
+|18|Como você verifica os órgãos da Defensoria?	| Não foram incluídos no protótipo |
+|19|Como você acessa à seção "Núcleo Especializado"?| O usuário observa toda a página inicial do site até identificar a opção de núcleos especializados disponibilizada no header da página |
 |20|Você encontrou alguma dificuldade ou problema ao utilizá-lo?|[ ] Sim </br> [x] Não </br> ⚠️ Caso a resposta seja "Não", pule para a pergunta 23|
-|21|Quais as dificuldades/problemas encontrados? |Pergunta aberta|
-|22|O que você sugere para solucionar esses problemas ou melhorar a experiência?|Pergunta aberta|
+|21|Quais as dificuldades/problemas encontrados? | Os pontos foram citados em otas dos avaliadores |
+|22|O que você sugere para solucionar esses problemas ou melhorar a experiência?| Nada, pareceu uma experiência satisfatória |
 |23|Você sentiu falta de algo ao utilizar o protótipo?|Não|
 
 ### Dados
@@ -152,3 +152,4 @@ Nenhum problema específico foi encontrado,a única dificuldade detectada se deu
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 06/05/2020 | Criação do documento | Brenda Santos, Ítalo Alves, Lorrany Souza, Lucas Boaventura |
+| 1.1 | 07/05/2020 | Ajuste de respostas | Brenda Santos, Ítalo Alves |
