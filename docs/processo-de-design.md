@@ -1,8 +1,9 @@
 # Processo de Design
 
+## 1. Introdução
 <p align='justify'> &emsp; O processo de design é uma parte muito importante, pois é nele que há o detalhamento das atividades básicas propostas no design, que são: a análise da situação atual, a síntese de uma intervenção e a avaliação desse intervenção. Tendo em conhecimento, que existem várias propostas de processo de design de IHC e cada uma possui uma forma diferente de pensar, a equipe debateu e chegou a conclusão que o modelo engenharia de usabilidade de Mayhew seria o mais conveniente para a realização deste projeto.</p>
 
-## Ciclo de Mayhew
+## 2. Ciclo de Mayhew
 
 <div align="center">
   <img src="../../assets/planejamento/processo-design/mayhew.png" />
@@ -16,11 +17,11 @@
 2. Definições de estilo.
 3. Interações e componentes relacionados com as tarefas.
 
-## Análise de Requisitos
+## 3. Análise de Requisitos
 
 <p align='justify'> &emsp; Nesta fase do ciclo, há um levantamento de informações acerca do perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que sistema será executado, e princípios gerais de design de IHC, para utilizar como base na hora da definição das metas de usabilidade.</p>
 
-## Design, avaliação e desenvolvimento
+## 4. Design, avaliação e desenvolvimento
 
 <p align='justify'> &emsp; Essa fase do ciclo tem por objetivo a **concepção de uma solução**, que se baseia nas metas de usabilidade definidas anteriormente, durante a análise de requisitos. Nesse processo, a solução de IHC é projetada em **três níveis** diferentes de detalhamento.</p>
 
@@ -32,13 +33,13 @@
 
 <p align='justify'> &emsp; Já no **desenvolvimento do sistema**, a interface é **avaliada** com a participação dos usuários.</p>
 
-## Instalação
+## 5. Instalação
 
 <p align='justify'> &emsp; A fase de **instalação** do sistema, que depois de um tempo de uso, permite que os usuários possam avaliar a usabilidade do software, de forma mais genuína de acordo com as suas experiências.</p>
 
 <p align='justify'> &emsp; Para se coletar avaliações dos usuários, pode se utilizar de testes de usabilidade, ou métodos de análise como entrevistas, observações e questionários.</p>
 
-## Referências
+## 6. Referências Bibliográficas
 
 - SILVA, Rodrigo; MENDONÇA, Jônatas. Um estudo do relacionamento entre técnicas de
   usabilidade e testes automatizados em métodos
@@ -49,4 +50,5 @@
 |    Data    | Versão |      Descrição       |                      Autor                      |
 | :--------: | :----: | :------------------: | :---------------------------------------------: |
 | 04/03/2021 |  1.0   | Criação do documento | Lucas Boaventura, Lorrany Oliveira, Ítalo Alves |
-| 04/03/2021 |  2.0   | Revisão do documento |                   Ítalo Alves                   |
+| 04/03/2021 |  1.1   | Revisão do documento |                   Ítalo Alves                   |
+| 07/05/2021 |  1.2   | Revisa e padroniza documento | Tiago Samuel Rodrigues |
